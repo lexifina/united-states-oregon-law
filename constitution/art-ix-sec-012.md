@@ -1,0 +1,2 @@
+# art-ix Section 12
+Retirement not to be increased by unused sick leave. (1) Notwithstanding any existing Federal or State law, the retirement benefits of an employee of the state or any political subdivision of the state retiring on or after January 1, 1995, shall not in any way be increased as a result of or due to unused sick leave. [Created through initiative petition filed May 10, 1993, and adopted by the people Nov. 8, 1994]

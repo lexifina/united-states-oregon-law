@@ -1,0 +1,2 @@
+# art-vii-amended Section 6
+Incompetency or malfeasance of public officer. Public officers shall not be impeached; but incompetency, corruption, malfeasance or delinquency in office may be tried in the same manner as criminal offenses, and judgment may be given of dismissal from office, and such further punishment as may have been prescribed by law. [Created through initiative petition filed July 7, 1910, and adopted by the people Nov. 8, 1910]

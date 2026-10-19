@@ -1,0 +1,2 @@
+# art-vii-amended Section 2
+Amendment's effect on courts, jurisdiction and judicial system; Supreme Court's original jurisdiction. The courts, jurisdiction, and judicial system of Oregon, except so far as expressly changed by this amendment, shall remain as at present constituted until otherwise provided by law. But the supreme court may, in its own discretion, take original jurisdiction in mandamus, quo warranto and habeas corpus proceedings. [Created through initiative petition filed July 7, 1910, and adopted by the people Nov. 8, 1910]

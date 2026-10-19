@@ -1,0 +1,2 @@
+# art-v Section 8
+Vacancy in office of Governor. [Constitution of 1859; Amendment proposed by S.J.R. 10, 1920 (s.s.), and adopted by the people May 21, 1920; Amendment proposed by S.J.R. 8, 1945, and adopted by the people Nov. 5, 1946; Repeal proposed by initiative petition filed July 7, 1972, and adopted by the people Nov. 7, 1972 (present section 8a of this Article adopted in lieu of this section)]

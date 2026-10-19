@@ -1,0 +1,2 @@
+# art-xi Section 11d
+Effect of section 11b on exemptions and assessments. Nothing in sections 11b to 11e of this Article is intended to require or to prohibit the amendment of any current statute which partially or totally exempts certain classes of property or which prescribes special rules for assessing certain classes of property, unless such amendment is required or prohibited by the implementation of the limitations imposed by section 11b of this Article. [Created through initiative petition filed May 8, 1990, and adopted by the people Nov. 6, 1990]

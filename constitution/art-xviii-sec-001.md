@@ -1,0 +1,2 @@
+# art-xviii Section 1
+Election to accept or reject Constitution. For the purpose of taking the vote of the electors of the State, for the acceptance or rejection of this Constitution, an election shall be held on the second Monday of November, in the year 1857, to be conducted according to existing laws regulating the election of Delegates in Congress, so far as applicable, except as herein otherwise provided.

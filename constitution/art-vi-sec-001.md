@@ -1,0 +1,2 @@
+# art-vi Section 1
+Election of Secretary and Treasurer of state; terms of office; period of eligibility. There shall be elected by the qualified electors of the State, at the times and places of choosing Members of the Legislative Assembly, a Secretary, and Treasurer of State, who shall severally hold their offices for the term of four years; but no person shall be eligible to either of said offices more than Eight in any period of Twelve years.

@@ -1,0 +1,2 @@
+# art-iv Section 10a
+Emergency sessions of the Legislative Assembly. In the event of an emergency the Legislative Assembly shall be convened by the presiding officers of both Houses at the Capitol of the State at times other than required by section 10 of this Article upon the written request of the majority of the members of each House to commence within five days after receipt of the minimum requisite number of requests. [Created through H.J.R. 28, 1975, and adopted by the people Nov. 2, 1976]

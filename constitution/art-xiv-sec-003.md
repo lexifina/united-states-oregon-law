@@ -1,0 +1,2 @@
+# art-xiv Section 3
+Limitation on removal of seat of government; location of state institutions. [Constitution of 1859; Amendment proposed by S.J.R. 1, 1907, and adopted by the people June 1, 1908; Repeal proposed by S.J.R. 41, 1957, and adopted by the people Nov. 4, 1958 (present section 1 and former 1958 section 3 of this Article adopted in lieu of this section and former section 1 of this Article)]

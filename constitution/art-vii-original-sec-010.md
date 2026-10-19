@@ -1,0 +1,2 @@
+# art-vii-original Section 10
+Supreme and circuit judges; election in classes. The Legislative Assembly, may provide for the election of Supreme, and Circuit Judges, in distinct classes, one of which classes shall consist of three Justices of the Supreme Court, who shall not perform Circuit duty, and the other class shall consist of the necessary number of Circuit Judges, who shall hold full terms without allotment, and who shall take the same oath as the Supreme Judges. [Constitution of 1859; Amendment proposed by S.J.R. 7, 2001, and adopted by the people Nov. 5, 2002]

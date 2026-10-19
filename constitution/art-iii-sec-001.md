@@ -1,0 +1,2 @@
+# art-iii Section 1
+Separation of powers. The powers of the Government shall be divided into three separate branches, the Legislative, the Executive, including the administrative, and the Judicial; and no person charged with official duties under one of these branches, shall exercise any of the functions of another, except as in this Constitution expressly provided. [Constitution of 1859; Amendment proposed by H.J.R. 44, 2011, and adopted by the people Nov. 6, 2012]

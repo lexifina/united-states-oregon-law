@@ -1,0 +1,2 @@
+# art-x Section 3
+Officers. The Governor, in his capacity as Commander-in-Chief of the military forces of the State, shall appoint and commission an Adjutant General. All other officers of the militia of the State shall be appointed and commissioned by the Governor upon the recommendation of the Adjutant General. [Constitution of 1859; Amendment proposed by H.J.R. 5, 1961, and adopted by the people Nov. 6, 1962]

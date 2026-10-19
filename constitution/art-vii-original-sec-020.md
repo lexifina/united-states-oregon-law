@@ -1,0 +1,2 @@
+# art-vii-original Section 20
+Removal of Judges of Supreme Court and prosecuting attorneys from office. The Govenor [sic] may remove from Office a Judge of the Supreme Court, or Prosecuting Attorney upon the Joint resolution of the Legislative Assembly, in which Two Thirds of the members elected to each house shall concur, for incompetency, Corruption, malfeasance, or delinquency in office, or other sufficient cause stated in such resolution.

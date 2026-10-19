@@ -1,0 +1,2 @@
+# art-iv Section 2
+Number of Senators and Representatives. The Senate shall consist of sixteen, and the House of Representatives of thirty four members, which number shall not be increased until the year Eighteen Hundred and Sixty, after which time the Legislative Assembly may increase the number of Senators and Representatives, always keeping as near as may be the same ratio as to the number of Senators, and Representatives: Provided that the Senate shall never exceed thirty and the House of Representatives sixty members.

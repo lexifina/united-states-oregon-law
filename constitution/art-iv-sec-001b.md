@@ -1,0 +1,3 @@
+# art-iv Section 1b
+Payment for signatures. It shall be unlawful to pay or receive money or other thing of value based on the number of signatures obtained on an initiative or referendum petition. Nothing herein prohibits payment for signature gathering which is not based, either directly or indirectly, on the number of signatures obtained. [Created through initiative petition filed Nov. 7, 2001, and adopted by the people Nov. 5, 2002]
+Note: Added as unnumbered section to the Constitution but not to any Article therein by initiative petition (Measure No. 26, 2002) adopted by the people Nov. 5, 2002.

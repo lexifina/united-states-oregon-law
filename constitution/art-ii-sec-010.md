@@ -1,0 +1,2 @@
+# art-ii Section 10
+Lucrative offices; holding other offices forbidden. No person holding a lucrative office, or appointment under the United States, or under this State, shall be eligible to a seat in the Legislative Assembly; nor shall any person hold more than one lucrative office at the same time, except as in this Constition [sic] expressly permitted; Provided, that Officers in the Militia, to which there is attached no annual salary, and the Office of Post Master, where the compensation does not exceed One Hundred Dollars per annum, shall not be deemed lucrative.

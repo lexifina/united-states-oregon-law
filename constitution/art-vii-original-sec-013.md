@@ -1,0 +1,2 @@
+# art-vii-original Section 13
+Writs granted by county judge; habeas corpus proceedings. The County Judge may grant preliminary injuctions [sic], and such other writs as the Legislative Assembly may authorize him to grant, returnable to the Circuit Court, or otherwise as may be provided by law; and may hear, and decide questions arising upon habeas corpus; provided such decision be not against the authority, or proceedings of a Court, or Judge of equal, or higher jurisdiction.

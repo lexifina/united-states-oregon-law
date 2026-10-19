@@ -1,0 +1,3 @@
+# art-vi Section 6
+County Officers: There shall be elected in each county by the qualified electors thereof at the time of holding general elections, a county clerk, treasurer and sheriff who shall severally hold their offices for the term of four years. [Constitution of 1859; Amendment proposed by initiative petition filed June 9, 1920, and adopted by the people Nov. 2, 1920; Amendment proposed by H.J.R. 7, 1955, and adopted by the people Nov. 6, 1956]
+Note: The leadline to section 6 was a part of the measure proposed by initiative petition filed June 9, 1920, and adopted by the people Nov. 2, 1920.

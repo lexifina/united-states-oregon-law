@@ -1,0 +1,2 @@
+# art-vii-amended Section 4
+Supreme Court; terms; statements of decisions of court. The terms of the supreme court shall be appointed by law; but there shall be one term at the seat of government annually. At the close of each term the judges shall file with the secretary of state concise written statements of the decisions made at that term. [Created through initiative petition filed July 7, 1910, and adopted by the people Nov. 8, 1910]

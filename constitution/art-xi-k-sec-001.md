@@ -1,0 +1,2 @@
+# art-xi-k Section 1
+State empowered to guarantee bonded indebtedness of education districts. To secure lower interest costs on the general obligation bonds of school districts, education service districts and community college districts, the State of Oregon may guarantee the general obligation bonded indebtedness of those districts as provided in sections 2 to 6 of this Article and laws enacted pursuant to this Article. [Created through H.J.R. 71, 1997, and adopted by the people Nov. 3, 1998]

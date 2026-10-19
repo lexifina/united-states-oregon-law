@@ -1,0 +1,2 @@
+# art-i Section 32
+Taxes and duties; uniformity of taxation. No tax or duty shall be imposed without the consent of the people or their representatives in the Legislative Assembly; and all taxation shall be uniform on the same class of subjects within the territorial limits of the authority levying the tax. [Constitution of 1859; Amendment proposed by H.J.R. 16, 1917, and adopted by the people June 4, 1917]

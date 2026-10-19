@@ -1,0 +1,2 @@
+# art-iv Section 33
+Reduction of criminal sentences approved by initiative or referendum process. Notwithstanding the provisions of section 25 of this Article, a two-thirds vote of all the members elected to each house shall be necessary to pass a bill that reduces a criminal sentence approved by the people under section 1 of this Article. [Created through initiative petition filed Nov. 16, 1993, and adopted by the people Nov. 8, 1994]

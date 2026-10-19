@@ -1,0 +1,2 @@
+# art-i Section 1
+Natural rights inherent in people. We declare that all men, when they form a social compact are equal in right: that all power is inherent in the people, and all free governments are founded on their authority, and instituted for their peace, safety, and happiness; and they have at all times a right to alter, reform, or abolish the government in such manner as they may think proper.

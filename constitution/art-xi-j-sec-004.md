@@ -1,0 +1,2 @@
+# art-xi-j Section 4
+Sources of revenue. Ad valorem taxes shall be levied annually upon all the taxable property in the State of Oregon in sufficient amount to provide for the payment of principal and interest of the bonds issued pursuant to this Article. The Legislative Assembly may provide other revenues to supplement or replace, in whole or in part, such tax levies. [Created through S.J.R. 24, 1979, and adopted by the people May 20, 1980]

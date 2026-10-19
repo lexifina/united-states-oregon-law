@@ -1,0 +1,2 @@
+# art-ii Section 4
+Residence. For the purpose of voting, no person shall be deemed to have gained, or lost a residence, by reason of his presence, or absence while employed in the service of the United States, or of this State; nor while engaged in the navigation of the waters of this State, or of the United States, or of the high seas; nor while a student of any Seminary of Learning; nor while kept at any alms house, or other assylum [sic], at public expence [sic]; nor while confined in any public prison.

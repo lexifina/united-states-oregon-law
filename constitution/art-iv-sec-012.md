@@ -1,0 +1,2 @@
+# art-iv Section 12
+Quorum; failure to effect organization. Two thirds of each house shall constitute a quorum to do business, but a smaller number may meet; adjourn from day to day, and compel the attendance of absent members. A quorum being in attendance, if either house fail to effect an organization within the first five days thereafter, the members of the house so failing shall be entitled to no compensation from the end of the said five days until an organization shall have been effected.

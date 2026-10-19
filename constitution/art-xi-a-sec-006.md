@@ -1,0 +1,2 @@
+# art-xi-a Section 6
+Refunding bonds. Refunding bonds may be issued and sold to refund any bonds issued under authority of sections 1 and 2 of this article. There may be issued and outstanding at any one time bonds aggregating the amount authorized by section 1 hereof, but at no time shall the total of all bonds outstanding, including refunding bonds, exceed the amount so authorized. [Created through H.J.R. 7, 1943, and adopted by the people Nov. 7, 1944]

@@ -1,0 +1,2 @@
+# art-xi-j Section 2
+Bonds. Bonds of the State of Oregon containing a direct promise on behalf of the state to pay the face value thereof, with the interest therein provided for, may be issued to an amount authorized by section 1 of this Article for the purpose of creating such fund. The bonds shall be a direct obligation of the state and shall be in such form and shall run for such periods of time and bear such rates of interest as provided by statute. [Created through S.J.R. 24, 1979, and adopted by the people May 20, 1980]

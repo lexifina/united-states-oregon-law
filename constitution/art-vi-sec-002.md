@@ -1,0 +1,2 @@
+# art-vi Section 2
+Duties of Secretary of State. The Secretary of State shall keep a fair record of the official acts of the Legislative Assembly, and Executive Branch; and shall when required lay the same, and all matters relative thereto before either chamber of the Legislative Assembly. The Secretary of State shall be by virtue of holding the office, Auditor of Public Accounts, and shall perform such other duties as shall be assigned to the Secretary of State by law. [Constitution of 1859; Amendment proposed by H.J.R. 44, 2011, and adopted by the people Nov. 6, 2012]

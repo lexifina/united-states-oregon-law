@@ -1,0 +1,2 @@
+# art-xi-d Section 3
+Legislation to effectuate article. The legislative assembly shall, and the people may, provide any legislation that may be necessary in addition to existing laws, to carry out the provisions of this article; Provided, that any board or commission created, or empowered to administer the laws enacted to carry out the purposes of this article shall consist of three members and be elected without party affiliation or designation. [Created through initiative petition filed July 7, 1932, and adopted by the people Nov. 8, 1932]

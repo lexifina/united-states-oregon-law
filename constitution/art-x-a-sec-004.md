@@ -1,0 +1,9 @@
+# art-x-a Section 4
+Additional powers of Legislative Assembly. (1) If the Governor declares that a catastrophic disaster has occurred:
+(a) The Legislative Assembly may enact laws authorizing the use of revenue described in section 3a, Article IX of this Constitution, for purposes other than those described in that section.
+(b) The Legislative Assembly may, by a vote of the number of members of each house that constitutes a quorum under subsection (2) of section 3 of this Article, appropriate moneys that would otherwise be returned to taxpayers under section 14, Article IX of this Constitution, to state agencies for the purpose of responding to the catastrophic disaster.
+(c) Notwithstanding section 7, Article XI of this Constitution, the Legislative Assembly may lend the credit of the state or create debts or liabilities in an amount the Legislative Assembly considers necessary to provide an adequate response to the catastrophic disaster.
+(d) The provisions of section 15, Article XI of this Constitution, do not apply to any law that is approved by three-fifths of the members of each house who are able to attend a session described in subsection (3) of section 3 of this Article.
+(e) The Legislative Assembly may take action described in subsection (6) of section 15, Article XI of this Constitution, upon approval by three-fifths of the members of each house who are able to attend a session described in subsection (3) of section 3 of this Article.
+(f) Notwithstanding section 4, Article XV of this Constitution, the Legislative Assembly may allocate proceeds from the State Lottery for any purpose and in any ratio the Legislative Assembly determines necessary to provide an adequate response to the catastrophic disaster.
+(2) Nothing in this section overrides or otherwise affects the provisions of section 15b, Article V of this Constitution. [Created through H.J.R. 7, 2011, and adopted by the people Nov. 6, 2012]

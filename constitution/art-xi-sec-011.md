@@ -1,0 +1,2 @@
+# art-xi Section 11
+Tax and indebtedness limitation. [Created through initiative petition filed July 6, 1916, and adopted by the people Nov. 7, 1916; Amendment proposed by H.J.R. 9, 1931, and adopted by the people Nov. 8, 1932; Amendment proposed by H.J.R. 9, 1951, and adopted by the people Nov. 4, 1952; Repeal proposed by S.J.R. 33, 1961, and adopted by the people Nov. 6, 1962 (second section 11 of this Article adopted in lieu of this section)]

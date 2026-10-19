@@ -1,0 +1,2 @@
+# art-xi-f Section 3
+Sources of revenue. Ad valorem taxes shall be levied annually upon all the taxable property in the state of Oregon in sufficient amount, with the aforesaid revenues, to provide for the payment of such indebtedness and the interest thereon. The legislative assembly may provide other revenues to supplement or replace such tax levies. [Created through H.J.R. 26, 1949, and adopted by the people Nov. 7, 1950; Amendment proposed by H.J.R. 101, 2010, and adopted by the people May 18, 2010]

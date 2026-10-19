@@ -1,0 +1,4 @@
+# art-iii Section 4
+Senate confirmation of executive appointments. (1) The Legislative Assembly in the manner provided by law may require that all appointments and reappointments to state public office made by the Governor shall be subject to confirmation by the Senate.
+(2) The appointee shall not be eligible to serve until confirmed in the manner required by law and if not confirmed in that manner, shall not be eligible to serve in the public office.
+(3) In addition to appointive offices, the provisions of this section shall apply to any state elective office when the Governor is authorized by law or this Constitution to fill any vacancy therein, except the office of judge of any court, United States Senator or Representative and a district, county or precinct office. [Created through S.J.R. 20, 1977, and adopted by the people Nov. 7, 1978]

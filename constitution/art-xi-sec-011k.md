@@ -1,0 +1,2 @@
+# art-xi Section 11k
+Limitation on applicability of section 11 (8) voting requirements to elections on measures held in May or November of any year. Notwithstanding subsection (8) of section 11 of this Article, subsection (8) of section 11 of this Article does not apply to any measure voted on in an election held in May or November of any year. [Created through H.J.R. 15, 2007, and adopted by the people Nov. 4, 2008]

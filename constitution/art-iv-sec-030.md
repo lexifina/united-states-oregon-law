@@ -1,0 +1,2 @@
+# art-iv Section 30
+Members not eligible to other offices. No Senator or Representative shall, during the time for which he may have been elected, be eligible to any office the election to which is vested in the Legislative Assembly; nor shall be appointed to any civil office of profit which shall have been created, or the emoluments of which shall have been increased during such term; but this latter provision shall not be construed to apply to any officer elective by the people.

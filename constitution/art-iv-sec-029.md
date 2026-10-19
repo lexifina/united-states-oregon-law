@@ -1,0 +1,2 @@
+# art-iv Section 29
+Compensation of members. The members of the Legislative Assembly shall receive for their services a salary to be established and paid in the same manner as the salaries of other elected state officers and employes. [Constitution of 1859; Amendment proposed by S.J.R. 3, 1941, and adopted by the people Nov. 3, 1942; Amendment proposed by H.J.R. 5, 1949, and adopted by the people Nov. 7, 1950; Amendment proposed by H.J.R. 8, 1961, and adopted by the people May 18, 1962]

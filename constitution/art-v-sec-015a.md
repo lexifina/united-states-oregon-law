@@ -1,0 +1,2 @@
+# art-v Section 15a
+Single item and emergency clause veto. The Governor shall have power to veto single items in appropriation bills, and any provision in new bills declaring an emergency, without thereby affecting any other provision of such bill. [Created through S.J.R. 12, 1915, and adopted by the people Nov. 7, 1916; Amendment proposed by S.J.R. 13, 1921, and adopted by the people June 7, 1921]

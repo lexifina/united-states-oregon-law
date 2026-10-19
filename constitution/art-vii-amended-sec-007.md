@@ -1,0 +1,3 @@
+# art-vii-amended Section 7
+Oath of office of Judges of Supreme Court. Every judge of the supreme court, before entering upon the duties of his office, shall take and subscribe, and transmit to the secretary of state, the following oath:
+"I, ____________, do solemnly swear (or affirm) that I will support the constitution of the United States, and the constitution of the State of Oregon, and that I will faithfully and impartially discharge the duties of a judge of the supreme court of this state, according to the best of my ability, and that I will not accept any other office, except judicial offices, during the term for which I have been elected." [Created through initiative petition filed July 7, 1910, and adopted by the people Nov. 8, 1910]

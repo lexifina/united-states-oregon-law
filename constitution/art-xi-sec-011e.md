@@ -1,0 +1,2 @@
+# art-xi Section 11e
+Severability of sections 11b, 11c and 11d. If any portion, clause or phrase of sections 11b to 11e of this Article is for any reason held to be invalid or unconstitutional by a court of competent jurisdiction, the remaining portions, clauses and phrases shall not be affected but shall remain in full force and effect. [Created through initiative petition filed May 8, 1990, and adopted by the people Nov. 6, 1990]

@@ -1,0 +1,7 @@
+# art-xi Section 11L
+Limitation on applicability of sections 11 and 11b on bonded indebtedness to finance capital costs. (1) The limitations of sections 11 and 11b of this Article do not apply to bonded indebtedness incurred by local taxing districts if the bonded indebtedness was incurred on or after January 1, 2011, to finance capital costs as defined in subsection (5) of this section.
+(2) Bonded indebtedness described in subsection (1) of this section includes bonded indebtedness issued to refund bonded indebtedness described in subsection (1) of this section.
+(3) Notwithstanding subsection (1) of this section, subsection (8) of section 11 of this Article, as limited by section 11k of this Article, applies to measures that authorize bonded indebtedness described in subsection (1) of this section.
+(4) The weighted average life of bonded indebtedness incurred on or after January 1, 2011, to finance capital costs may not exceed the weighted average life of the capital costs that are financed with that indebtedness.
+(5)(a) As used in this section, "capital costs" means costs of land and of other assets having a useful life of more than one year, including costs associated with acquisition, construction, improvement, remodeling, furnishing, equipping, maintenance or repair.
+(b) "Capital costs" does not include costs of routine maintenance or supplies. [Created through H.J.R. 13, 2009, and adopted by the people May 18, 2010]

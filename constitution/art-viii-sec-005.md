@@ -1,0 +1,3 @@
+# art-viii Section 5
+State Land Board; land management. (1) The Governor, Secretary of State and State Treasurer shall constitute a State Land Board for the disposition and management of lands described in section 2 of this Article, and other lands owned by this state that are placed under their jurisdiction by law. Their powers and duties shall be prescribed by law.
+(2) The board shall manage lands under its jurisdiction with the object of obtaining the greatest benefit for the people of this state, consistent with the conservation of this resource under sound techniques of land management. [Constitution of 1859; Amendment proposed by H.J.R. 7, 1967, and adopted by the people May 28, 1968]

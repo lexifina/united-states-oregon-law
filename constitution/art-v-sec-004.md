@@ -1,0 +1,2 @@
+# art-v Section 4
+Election of Governor. The Governor shall be elected by the qualified Electors of the State at the times, and places of choosing members of the Legislative Assembly; and the returns of every Election for Governor, shall be sealed up, and transmitted to the Secretary of State; directed to the Speaker of the House of Representatives, who shall open, and publish them in the presence of both houses of the Legislative Assembly.

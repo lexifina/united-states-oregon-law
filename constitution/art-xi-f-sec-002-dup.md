@@ -1,0 +1,8 @@
+# art-xi-f Section 2
+Definitions. The following words, terms, and phrases, as used in this act [sic] shall have the following meaning unless the text otherwise requires:
+1. "Domestic service" means service within the continental limits of the United States, excluding Alaska, Hawaii, Canal Zone and Puerto Rico.
+2. "Foreign Service" means service in all other places, including sea duty.
+3. "Husband" means the unremarried husband, and "wife" means the unremarried wife.
+4. "Child or Children" means child or children of issue, child or children by adoption or child or children to whom the deceased person has stood in loco parentis for one year or more immediately preceding his death.
+5. "Parent or Parents" means natural parent or parents; parent or parents by adoption; or, person or persons, including stepparent or stepparents, who have stood in loco parentis to the deceased person for a period of one year or more immediately prior to entrance into the armed service of the United States.
+6. "Veterans" means any person who shall have served in active duty in the armed forces of the United States at any time between September 16, 1940, and June 30, 1946, both dates inclusive, and who, at the time of commencing such service, was and had been a bona fide resident of the State of Oregon for at least one year immediately preceding the commencement of such service, and who shall have been separated from such service under honorable conditions, or who is still in such service, or who has been retired. [Created through initiative petition filed June 30, 1950, and adopted by the people Nov. 7, 1950]

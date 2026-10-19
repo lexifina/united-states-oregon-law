@@ -1,0 +1,2 @@
+# art-xi-k Section 3
+Repayment by education districts. The Legislative Assembly may provide that reimbursement to the state shall be obtained from, but shall not be limited to, moneys that otherwise would be used for the support of the educational programs of the school district, the education service district or the community college district that incurred the bonded indebtedness with respect to which any payment under the state's guaranty is made. [Created through H.J.R. 71, 1997, and adopted by the people Nov. 3, 1998]

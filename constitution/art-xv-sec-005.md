@@ -1,0 +1,2 @@
+# art-xv Section 5
+Property of married women not subject to debts of husband; registration of separate property. The property and pecuniary rights of every married woman, at the time of marriage or afterwards, acquired by gift, devise, or inheritance shall not be subject to the debts, or contracts of the husband; and laws shall be passed providing for the registration of the wife's seperate [sic] property.

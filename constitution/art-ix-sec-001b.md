@@ -1,0 +1,2 @@
+# art-ix Section 1b
+Ships exempt from taxation until 1935. All ships and vessels of fifty tons or more capacity engaged in either passenger or freight coasting or foreign trade, whose home ports of registration are in the State of Oregon, shall be and are hereby exempted from all taxes of every kind whatsoever, excepting taxes for State purposes, until the first day of January, 1935. [Created through S.J.R. 18, 1915, and adopted by the people Nov. 7, 1916]

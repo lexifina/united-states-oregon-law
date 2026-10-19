@@ -1,0 +1,2 @@
+# art-iv Section 1
+Legislative authority vested in assembly; initiative and referendum; style of bills. [Constitution of 1859; Amendment proposed by H.J.R. 1, 1901, and adopted by the people June 2, 1902; Amendment proposed by S.J.R. 6, 1953, and adopted by the people Nov. 2, 1954; Repeal proposed by H.J.R. 16, 1967, and adopted by the people May 28, 1968 (present section 1 of this Article adopted in lieu of this section)]

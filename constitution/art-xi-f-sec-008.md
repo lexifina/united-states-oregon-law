@@ -1,0 +1,2 @@
+# art-xi-f Section 8
+Administration of article; rules and regulations. The director of Veterans' Affairs, State of Oregon, referred to herein as the "director" hereby is authorized and empowered, and it shall be his duty, to administer the provisions of this act [sic], and with the approval of the veterans advisory committee may make such rules and regulations as are deemed necessary to accomplish the purpose hereof. [Created through initiative petition filed June 30, 1950, and adopted by the people Nov. 7, 1950]

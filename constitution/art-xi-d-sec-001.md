@@ -1,0 +1,2 @@
+# art-xi-d Section 1
+State's rights, title and interest to water and water-power sites to be held in perpetuity. The rights, title and interest in and to all water for the development of water power and to water power sites, which the state of Oregon now owns or may hereafter acquire, shall be held by it in perpetuity. [Created through initiative petition filed July 7, 1932, and adopted by the people Nov. 8, 1932]

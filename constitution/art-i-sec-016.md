@@ -1,0 +1,2 @@
+# art-i Section 16
+Excessive bail and fines; cruel and unusual punishments; power of jury in criminal case. Excessive bail shall not be required, nor excessive fines imposed. Cruel and unusual punishments shall not be inflicted, but all penalties shall be proportioned to the offense.-In all criminal cases whatever, the jury shall have the right to determine the law, and the facts under the direction of the Court as to the law, and the right of new trial, as in civil cases.

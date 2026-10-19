@@ -1,0 +1,2 @@
+# art-xi-d Section 4
+Construction of article. Nothing in this article shall be construed to affect in any way the laws, and the administration thereof, now existing or hereafter enacted, relating to the appropriation and use of water for beneficial purposes, other than for the development of water power. [Created through initiative petition filed July 7, 1932, and adopted by the people Nov. 8, 1932]

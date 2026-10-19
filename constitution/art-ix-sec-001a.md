@@ -1,0 +1,2 @@
+# art-ix Section 1a
+Poll or head tax; declaration of emergency in tax laws. No poll or head tax shall be levied or collected in Oregon. The Legislative Assembly shall not declare an emergency in any act regulating taxation or exemption. [Created through initiative petition filed June 23, 1910, and adopted by the people Nov. 8, 1910; Amendment proposed by S.J.R. 10, 1911, and adopted by the people Nov. 5, 1912]

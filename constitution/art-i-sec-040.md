@@ -1,0 +1,2 @@
+# art-i Section 40
+Penalty for aggravated murder. Notwithstanding sections 15 and 16 of this Article, the penalty for aggravated murder as defined by law shall be death upon unanimous affirmative jury findings as provided by law and otherwise shall be life imprisonment with minimum sentence as provided by law. [Created through initiative petition filed July 6, 1983, and adopted by the people Nov. 6, 1984]

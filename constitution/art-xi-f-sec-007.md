@@ -1,0 +1,2 @@
+# art-xi-f Section 7
+Bonus not saleable or assignable; bonus free from creditors' claims and state taxes. No sale or assignment of any right or claim to compensation under this act [sic] shall be valid, no claims of creditors shall be enforcible against rights or claims to or payments of such compensation, and such compensation shall be exempt from all taxes imposed by the laws of this state. [Created through initiative petition filed June 30, 1950, and adopted by the people Nov. 7, 1950]

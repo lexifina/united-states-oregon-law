@@ -1,0 +1,2 @@
+# art-v Section 5
+Greatest number of votes decisive; election by legislature in case of tie. The person having the highest number of votes for Governor, shall be elected; but in case two or more persons shall have an equal and the highest number of votes for Governor, the two houses of the Legislative Assembly at the next regular session thereof, shall forthwith by joint vote, proceed to elect one of the said persons Governor.

@@ -1,0 +1,2 @@
+# art-xi-j Section 3
+Refunding bonds. Refunding bonds may be issued and sold to refund any bonds issued under authority of sections 1 and 2 of this Article. There may be issued and outstanding at any time bonds aggregating the amount authorized by section 1 of this Article but at no time shall the total of all bonds outstanding including refunding bonds, exceed the amount so authorized. [Created through S.J.R. 24, 1979, and adopted by the people May 20, 1980]

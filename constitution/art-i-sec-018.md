@@ -1,0 +1,3 @@
+# art-i Section 18
+Private property or services taken for public use. Private property shall not be taken for public use, nor the particular services of any man be demanded, without just compensation; nor except in the case of the state, without such compensation first assessed and tendered; provided, that the use of all roads, ways and waterways necessary to promote the transportation of the raw products of mine or farm or forest or water for beneficial use or drainage is necessary to the development and welfare of the state and is declared a public use.
+[Constitution of 1859; Amendment proposed by S.J.R. 17, 1919, and adopted by the people May 21, 1920; Amendment proposed by S.J.R. 8, 1923, and adopted by the people Nov. 4, 1924]

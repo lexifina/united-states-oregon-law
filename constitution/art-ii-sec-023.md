@@ -1,0 +1,7 @@
+# art-ii Section 23
+Approval by more than majority required for certain measures submitted to people. (1) Any measure that includes any proposed requirement for more than a majority of votes cast by the electorate to approve any change in law or government action shall become effective only if approved by at least the same percentage of voters specified in the proposed voting requirement.
+(2) For the purposes of this section, "measure" includes all initiatives and all measures referred to the voters by the Legislative Assembly.
+(3) The requirements of this section apply to all measures presented to the voters at the November 3, 1998 election and thereafter.
+(4) The purpose of this section is to prevent greater-than-majority voting requirements from being imposed by only a majority of the voters. [Created through initiative petition filed Jan. 15, 1998, and adopted by the people Nov. 3, 1998]
+Note: Added as unnumbered section to the Constitution but not to any Article therein by initiative petition (Measure No. 63, 1998) adopted by the people Nov. 3, 1998.
+Note: An initiative petition (Measure No. 62, 1998) proposed adding new sections and a subsection relating to political campaigns to the Oregon Constitution. Those sections, appearing as sections 24 to 32 of Article II and sections 1 (6), 1b and 1c of Article IV in previous editions of this Constitution, were declared void for not being enacted in compliance with section 1, Article XVII of this Constitution. See Swett v. Bradbury, 333 Or. 597, 43 P.3d 1094 (2002).

@@ -1,0 +1,3 @@
+# art-xi Section 1
+Prohibition of state banks. The Legislative Assembly shall not have the power to establish, or incorporate any bank or banking company, or monied [sic] institution whatever; nor shall any bank company, or instition [sic] exist in the State, with the privilege of making, issuing, or putting in circulation, any bill, check, certificate, prommisory [sic] note, or other paper, or the paper of any bank company, or person, to circulate as money.
+Note: The semicolon appearing in the signed Constitution after the word "whatever" in section 1 was not in the original draft reported to and adopted by the convention and is not part of the Constitution. State v. H.S. & L.A., 8 Or. 396, 401 (1880).

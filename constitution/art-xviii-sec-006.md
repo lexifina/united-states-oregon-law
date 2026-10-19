@@ -1,0 +1,2 @@
+# art-xviii Section 6
+Election under Constitution; organization of state. If this Constitution shall be ratified, an election shall be held on the first Monday of June 1858, for the election of members of the Legislative Assembly, a Representative in Congress, and State and County officers, and the Legislative Assembly shall convene at the Capital on the first Monday of July 1858, and proceed to elect two senators in Congress, and make such further provision as may be necessary to the complete organization of a State government.

@@ -1,0 +1,2 @@
+# art-ix Section 11
+Retirement plan rate of return contract guarantee prohibited. (1) Neither the state nor any political subdivision of the state shall contract to guarantee any rate of interest or return on the funds in a retirement system or plan established by law, charter or ordinance for the benefit of an employee of the state or a political subdivision of the state. [Created through initiative petition filed May 10, 1993, and adopted by the people Nov. 8, 1994]

@@ -1,0 +1,2 @@
+# art-vii-original Section 18
+Verdict by Three-fourths Jury in Civil Cases; Jurors; Grand Jurors; Indictment May Be Amended, When. [Constitution of 1859; Amendment proposed by initiative petition filed Jan. 30, 1908, and adopted by the people June 1, 1908; Amendment proposed by H.J.R. 14, 1927, and adopted by the people June 28, 1927; Repeal proposed by S.J.R. 23, 1957, and adopted by the people Nov. 4, 1958]

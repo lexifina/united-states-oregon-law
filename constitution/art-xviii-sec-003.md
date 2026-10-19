@@ -1,0 +1,2 @@
+# art-xviii Section 3
+Majority of votes required to accept or reject Constitution. If a majority of all the votes given for, and against the Constitution, shall be given for the Constitution, then this Constitution shall be deemed to be approved, and accepted by the electors of the State, and shall take effect accordingly; and if a majority of such votes shall be given against the Constitution, then this Constitution shall be deemed to be rejected by the electors of the State, and shall be void.

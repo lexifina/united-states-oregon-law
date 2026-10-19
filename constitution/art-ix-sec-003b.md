@@ -1,0 +1,3 @@
+# art-ix Section 3b
+Rate of levy on oil or natural gas; exception. Any tax or excise levied on, with respect to or measured by the extraction, production, storage, use, sale, distribution or receipt of oil or natural gas, or the ownership thereof, shall not be levied at a rate that is greater than six percent of the market value of all oil and natural gas produced or salvaged from the earth or waters of this state as and when owned or produced. This section does not apply to any tax or excise the proceeds of which are dedicated as described in sections 3 and 3a of this Article. [Created through H.J.R. 6, 1979, and adopted by the people Nov. 4, 1980]
+Note: Section 3b was designated as "Section 3a" by H.J.R. 6, 1979, and adopted by the people Nov. 4, 1980.

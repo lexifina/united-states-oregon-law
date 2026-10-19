@@ -1,0 +1,2 @@
+# art-vii-original Section 14
+Expenses of court in certain counties. The Counties having less than ten thousand inhabitants, shall be reimbursed wholly or in part for the salary, and expenses of the County Court by fees, percentage, & other equitable taxation, of the business done in said Court & in the office of the County Clerk. [Constitution of 1859; Amendment proposed by S.J.R. 7, 2001, and adopted by the people Nov. 5, 2002]

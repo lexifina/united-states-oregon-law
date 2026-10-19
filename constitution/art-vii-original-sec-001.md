@@ -1,0 +1,2 @@
+# art-vii-original Section 1
+Courts in which judicial power vested. The Judicial power of the State shall be vested in a Suprume [sic] Court, Circuits [sic] Courts, and County Courts, which shall be Courts of Record having general jurisdiction, to be defined, limited, and regulated by law in accordance with this Constitution.- Justices of the Peace may also be invested with limited Judicial powers, and Municipal Courts may be created to administer the regulations of incorporated towns, and cities.

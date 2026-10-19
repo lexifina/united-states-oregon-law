@@ -1,0 +1,2 @@
+# art-ix Section 1
+Assessment and taxation; uniform rules; uniformity of operation of laws. The Legislative Assembly shall, and the people through the initiative may, provide by law uniform rules of assessment and taxation. All taxes shall be levied and collected under general laws operating uniformly throughout the State. [Constitution of 1859; Amendment proposed by H.J.R. 16, 1917, and adopted by the people June 4, 1917]

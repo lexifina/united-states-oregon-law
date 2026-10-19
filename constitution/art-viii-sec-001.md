@@ -1,0 +1,2 @@
+# art-viii Section 1
+Superintendent of Public Instruction. The Governor shall be superintendent of public instruction, and his powers, and duties in that capacity shall be such as may be prescribed by law; but after the term of five years from the adoption of this Constitution, it shall be competent for the Legislative Assembly to provide by law for the election of a superintendent, to provide for his compensation, and prescribe his powers and duties.

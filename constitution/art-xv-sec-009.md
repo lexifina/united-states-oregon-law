@@ -1,0 +1,2 @@
+# art-xv Section 9
+When elective office becomes vacant. The Legislative Assembly may provide that any elective public office becomes vacant, under such conditions or circumstances as the Legislative Assembly may specify, whenever a person holding the office is elected to another public office more than 90 days prior to the expiration of the term of the office he is holding. For the purposes of this section, a person elected is considered to be elected as of the date the election is held. [Created through S.J.R. 41, 1959, and adopted by the people Nov. 8, 1960]

@@ -1,0 +1,10 @@
+# art-xv Section 3
+Oaths of office. Every person elected or appointed to any office under this Constitution, shall, before entering on the duties thereof, take an oath or affirmation to support the Constitution of the United States, and of this State, and also an oath of office.
+Note: The amendments to sections 4, 4a, 4b and 4c and the repeal of section 4d by Measure No. 76, 2010, as submitted to the people were preceded by a preamble that reads as follows:
+PREAMBLE: The people of the State of Oregon find that renewing the current dedication in the Oregon Constitution of fifteen percent of lottery revenues to parks, water quality and fish and wildlife habitats will provide lasting social, economic, environmental and public health benefits.
+The people of the State of Oregon also find that renewal of the Parks and Natural Resources Fund will support voluntary efforts to:
+(1) Protect and restore water quality, watersheds and habitats for native fish and wildlife that provide a healthy environment for current and future generations of Oregonians;
+(2) Maintain and expand public parks, natural areas and recreation areas to meet the diverse needs of a growing population and to provide opportunities for [sic] to experience nature and enjoy outdoor recreation activities close to home and in the many special places throughout Oregon;
+(3) Provide jobs and economic opportunities improving the health of our forests, prairies, lakes, streams, wetlands, rivers, and parks, including efforts to halt the spread of invasive species;
+(4) Strengthen the audit and reporting requirements, identify desired outcomes and specify allowable uses of the fund in order to provide more strategic, accountable and efficient uses of the Parks and Natural Resources Fund; and
+(5) Enhance the ability of public land managers, private organizations, individuals and businesses to work together in local, regional and statewide partnerships to expand recreation opportunities, improve water quality and conserve fish and wildlife habitat.
