@@ -1,0 +1,8 @@
+{
+  "path": "united-states/oregon",
+  "code": "US-OR",
+  "name": "United States (Oregon)",
+  "level": "state",
+  "repo": "https://github.com/lexifina/united-states-oregon-law",
+  "build": "built"
+}
