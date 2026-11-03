@@ -14,7 +14,7 @@ A first build of Oregon law as git: one file per provision, with the text publis
 
 ## What it does not show
 
-Each text therefore has one commit, "oldest version available", credited to the publisher and dated by the retrieval day.
+- **Past versions.** Each page is read from the Internet Archive's capture of the official page; the Legislature publishes the current text only. Each text therefore has one commit, "oldest version available", credited to the publisher and dated by the retrieval day.
 - **Other law.** The rest of the Oregon Revised Statutes is not yet included.
 - **Notes.** Source notes, histories and annotations are not law text and are not in the files.
 

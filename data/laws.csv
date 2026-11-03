@@ -1,6 +1,531 @@
 key,label,kind,title,enacted,published,in_force_days,commits,url
 or-constitution-1857,"Constitution of Oregon (1857, as amended)",law,Constitution of Oregon,1857-11-09,,,0,https://www.oregonlegislature.gov/bills_laws/Pages/OrConst.aspx
+or-ors-001,Oregon Revised Statutes chapter 1,law,ORS chapter 1: Courts and Judicial Officers Generally,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors001.html
+or-ors-002,Oregon Revised Statutes chapter 2,law,ORS chapter 2: Supreme Court; Court of Appeals,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors002.html
+or-ors-003,Oregon Revised Statutes chapter 3,law,ORS chapter 3,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors003.html
+or-ors-005,Oregon Revised Statutes chapter 5,law,ORS chapter 5,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors005.html
+or-ors-007,Oregon Revised Statutes chapter 7,law,ORS chapter 7: Records and Files of Courts,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors007.html
+or-ors-008,Oregon Revised Statutes chapter 8,law,ORS chapter 8: Court Officers and District Attorneys,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors008.html
+or-ors-009,Oregon Revised Statutes chapter 9,law,ORS chapter 9: Oregon State Bar; Attorneys; Law Libraries,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors009.html
+or-ors-010,Oregon Revised Statutes chapter 10,law,ORS chapter 10: Juries,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors010.html
+or-ors-012,Oregon Revised Statutes chapter 12,law,ORS chapter 12: Limitations of Actions and Suits,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors012.html
+or-ors-014,Oregon Revised Statutes chapter 14,law,ORS chapter 14: Jurisdiction; Venue; Change of Judge,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors014.html
+or-ors-015,Oregon Revised Statutes chapter 15,law,ORS chapter 15: Choice of Laws,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors015.html
+or-ors-017,Oregon Revised Statutes chapter 17,law,ORS chapter 17: Compromise; Settlement,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors017.html
+or-ors-018,Oregon Revised Statutes chapter 18,law,ORS chapter 18: Judgments,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors018.html
+or-ors-019,Oregon Revised Statutes chapter 19,law,ORS chapter 19: Appeals,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors019.html
+or-ors-020,Oregon Revised Statutes chapter 20,law,ORS chapter 20: Attorney Fees; Costs and Disbursements,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors020.html
+or-ors-021,Oregon Revised Statutes chapter 21,law,ORS chapter 21: State Court Fees,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors021.html
+or-ors-024,Oregon Revised Statutes chapter 24,law,ORS chapter 24: Enforcement and Recognition of Foreign Judgments; Foreign-Money Claims,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors024.html
+or-ors-025,Oregon Revised Statutes chapter 25,law,ORS chapter 25: Child Support Services,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors025.html
+or-ors-030,Oregon Revised Statutes chapter 30,law,ORS chapter 30: Actions and Suits in Particular Cases,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors030.html
+or-ors-031,Oregon Revised Statutes chapter 31,law,ORS chapter 31: Tort Actions,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors031.html
+or-ors-033,Oregon Revised Statutes chapter 33,law,ORS chapter 33: Special Proceedings and Procedures,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors033.html
+or-ors-034,Oregon Revised Statutes chapter 34,law,ORS chapter 34: Writs,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors034.html
+or-ors-035,Oregon Revised Statutes chapter 35,law,ORS chapter 35: Eminent Domain; Public Acquisition of Property,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors035.html
+or-ors-036,Oregon Revised Statutes chapter 36,law,ORS chapter 36: Mediation and Arbitration,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors036.html
+or-ors-040,Oregon Revised Statutes chapter 40,law,ORS chapter 40: Evidence Code,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors040.html
+or-ors-041,Oregon Revised Statutes chapter 41,law,ORS chapter 41: Evidence Generally,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors041.html
+or-ors-045,Oregon Revised Statutes chapter 45,law,ORS chapter 45: Testimony Generally,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors045.html
+or-ors-046,Oregon Revised Statutes chapter 46,law,ORS chapter 46,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors046.html
+or-ors-051,Oregon Revised Statutes chapter 51,law,ORS chapter 51,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors051.html
+or-ors-056,Oregon Revised Statutes chapter 56,law,ORS chapter 56,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors056.html
+or-ors-058,Oregon Revised Statutes chapter 58,law,ORS chapter 58: Professional Corporations,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors058.html
+or-ors-059,Oregon Revised Statutes chapter 59,law,ORS chapter 59: Securities Regulation,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors059.html
+or-ors-062,Oregon Revised Statutes chapter 62,law,ORS chapter 62: Cooperatives,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors062.html
+or-ors-063,Oregon Revised Statutes chapter 63,law,ORS chapter 63: Limited Liability Companies,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors063.html
+or-ors-065,Oregon Revised Statutes chapter 65,law,ORS chapter 65: Nonprofit Corporations,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors065.html
+or-ors-067,Oregon Revised Statutes chapter 67,law,ORS chapter 67: Partnerships; Limited Liability Partnerships,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors067.html
+or-ors-070,Oregon Revised Statutes chapter 70,law,ORS chapter 70: Limited Partnerships,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors070.html
+or-ors-071,Oregon Revised Statutes chapter 71,law,ORS chapter 71: General Provisions for Uniform Commercial Code,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors071.html
+or-ors-072,Oregon Revised Statutes chapter 72,law,ORS chapter 72: Sales,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors072.html
+or-ors-072a,Oregon Revised Statutes chapter 72A,law,ORS chapter 72A: Leases,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors072a.html
+or-ors-073,Oregon Revised Statutes chapter 73,law,ORS chapter 73: Negotiable Instruments,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors073.html
+or-ors-074,Oregon Revised Statutes chapter 74,law,ORS chapter 74: Bank Deposits and Collections,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors074.html
+or-ors-074a,Oregon Revised Statutes chapter 74A,law,ORS chapter 74A: Funds Transfers,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors074a.html
+or-ors-075,Oregon Revised Statutes chapter 75,law,ORS chapter 75: Letters of Credit,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors075.html
+or-ors-077,Oregon Revised Statutes chapter 77,law,"ORS chapter 77: Warehouse Receipts, Bills of Lading and Other Documents of Title",,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors077.html
+or-ors-078,Oregon Revised Statutes chapter 78,law,ORS chapter 78: Investment Securities,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors078.html
+or-ors-079,Oregon Revised Statutes chapter 79,law,ORS chapter 79,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors079.html
+or-ors-080,Oregon Revised Statutes chapter 80,law,ORS chapter 80: Controllable Electronic Records,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors080.html
+or-ors-082,Oregon Revised Statutes chapter 82,law,ORS chapter 82: Interest; Repayment Restrictions,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors082.html
+or-ors-083,Oregon Revised Statutes chapter 83,law,ORS chapter 83: Retail Installment Contracts,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors083.html
+or-ors-084,Oregon Revised Statutes chapter 84,law,ORS chapter 84: Electronic Transactions,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors084.html
+or-ors-086,Oregon Revised Statutes chapter 86,law,ORS chapter 86: Mortgages; Trust Deeds,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors086.html
+or-ors-086a,Oregon Revised Statutes chapter 86A,law,ORS chapter 86A: Mortgage Lending,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors086a.html
+or-ors-087,Oregon Revised Statutes chapter 87,law,ORS chapter 87: Statutory Liens,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors087.html
+or-ors-088,Oregon Revised Statutes chapter 88,law,ORS chapter 88: Foreclosure of Mortgages and Other Liens,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors088.html
+or-ors-090,Oregon Revised Statutes chapter 90,law,ORS chapter 90,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors090.html
+or-ors-091,Oregon Revised Statutes chapter 91,law,ORS chapter 91: Tenancy,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors091.html
+or-ors-092,Oregon Revised Statutes chapter 92,law,ORS chapter 92: Subdivisions and Partitions,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors092.html
+or-ors-094,Oregon Revised Statutes chapter 94,law,ORS chapter 94: Real Property Development,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors094.html
+or-ors-096,Oregon Revised Statutes chapter 96,law,ORS chapter 96: Line and Partition Fences,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors096.html
+or-ors-097,Oregon Revised Statutes chapter 97,law,"ORS chapter 97: Rights and Duties Relating to Cemeteries, Human Bodies and Anatomical Gifts",,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors097.html
+or-ors-098,Oregon Revised Statutes chapter 98,law,"ORS chapter 98: Lost, Unclaimed or Abandoned Property; Vehicle Towing",,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors098.html
+or-ors-100,Oregon Revised Statutes chapter 100,law,ORS chapter 100: Condominiums,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors100.html
+or-ors-101,Oregon Revised Statutes chapter 101,law,ORS chapter 101: Continuing Care Retirement Communities,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors101.html
+or-ors-105,Oregon Revised Statutes chapter 105,law,ORS chapter 105: Property Rights,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors105.html
+or-ors-106,Oregon Revised Statutes chapter 106,law,ORS chapter 106: Marriage; Domestic Partnership,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors106.html
+or-ors-107,Oregon Revised Statutes chapter 107,law,"ORS chapter 107: Marital Dissolution, Annulment and Separation; Mediation and Conciliation Services; Family Abuse Prevention",,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors107.html
+or-ors-109,Oregon Revised Statutes chapter 109,law,ORS chapter 109: Parent and Child Rights and Relationships,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors109.html
+or-ors-111,Oregon Revised Statutes chapter 111,law,ORS chapter 111: General Provisions,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors111.html
+or-ors-112,Oregon Revised Statutes chapter 112,law,ORS chapter 112: Intestate Succession and Wills,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors112.html
+or-ors-113,Oregon Revised Statutes chapter 113,law,ORS chapter 113: Initiation of Estate Proceedings,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors113.html
+or-ors-114,Oregon Revised Statutes chapter 114,law,ORS chapter 114: Administration of Estates Generally,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors114.html
+or-ors-115,Oregon Revised Statutes chapter 115,law,ORS chapter 115: Claims; Actions and Suits,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors115.html
+or-ors-116,Oregon Revised Statutes chapter 116,law,"ORS chapter 116: Accounting, Distribution and Closing",,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors116.html
+or-ors-118,Oregon Revised Statutes chapter 118,law,ORS chapter 118: Estate Tax,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors118.html
+or-ors-119,Oregon Revised Statutes chapter 119,law,ORS chapter 119: Revised Uniform Fiduciary Access to Digital Assets Act,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors119.html
+or-ors-124,Oregon Revised Statutes chapter 124,law,ORS chapter 124: Abuse Prevention and Reporting; Civil Action for Abuse,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors124.html
+or-ors-125,Oregon Revised Statutes chapter 125,law,ORS chapter 125: Protective Proceedings,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors125.html
+or-ors-126,Oregon Revised Statutes chapter 126,law,ORS chapter 126: Property Held for the Benefit of Minors; Uniform Transfers to Minors Act,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors126.html
+or-ors-127,Oregon Revised Statutes chapter 127,law,ORS chapter 127: Powers of Attorney; Advance Directives for Health Care; Physician Orders for Life-Sustaining Treatment Registry; Nonopioid Directives; Declarations for Mental Health Treatment; Death With Dignity,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors127.html
+or-ors-128,Oregon Revised Statutes chapter 128,law,ORS chapter 128: Trusts; Charitable Activities,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors128.html
+or-ors-129,Oregon Revised Statutes chapter 129,law,ORS chapter 129: Uniform Principal and Income Act,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors129.html
+or-ors-130,Oregon Revised Statutes chapter 130,law,ORS chapter 130: Uniform Trust Code,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors130.html
+or-ors-131,Oregon Revised Statutes chapter 131,law,ORS chapter 131: Preliminary Provisions; Limitations; Jurisdiction; Venue; Criminal Forfeiture; Crime Prevention,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors131.html
+or-ors-131a,Oregon Revised Statutes chapter 131A,law,ORS chapter 131A: Civil Forfeiture,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors131a.html
+or-ors-132,Oregon Revised Statutes chapter 132,law,"ORS chapter 132: Grand Jury, Indictments and Other Accusatory Instruments",,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors132.html
+or-ors-133,Oregon Revised Statutes chapter 133,law,ORS chapter 133: Arrest and Related Procedures; Search and Seizure; Extradition,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors133.html
+or-ors-135,Oregon Revised Statutes chapter 135,law,ORS chapter 135: Arraignment and Pretrial Provisions,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors135.html
+or-ors-136,Oregon Revised Statutes chapter 136,law,ORS chapter 136: Criminal Trials,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors136.html
+or-ors-137,Oregon Revised Statutes chapter 137,law,ORS chapter 137: Judgment and Execution; Parole and Probation by the Court,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors137.html
+or-ors-144,Oregon Revised Statutes chapter 144,law,ORS chapter 144: Parole; Post-Prison Supervision; Work Release; Executive Clemency; Standards for Prison Terms and Parole; Presentence Reports,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors144.html
+or-ors-146,Oregon Revised Statutes chapter 146,law,"ORS chapter 146: Investigations of Deaths, Injuries and Missing Persons",,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors146.html
+or-ors-147,Oregon Revised Statutes chapter 147,law,ORS chapter 147: Victims of Crime and Acts of Mass Destruction,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors147.html
+or-ors-151,Oregon Revised Statutes chapter 151,law,ORS chapter 151: Public Defenders; Counsel for Financially Eligible Persons,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors151.html
+or-ors-153,Oregon Revised Statutes chapter 153,law,ORS chapter 153: Violations and Fines,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors153.html
+or-ors-161,Oregon Revised Statutes chapter 161,law,ORS chapter 161,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors161.html
+or-ors-162,Oregon Revised Statutes chapter 162,law,ORS chapter 162: Offenses Against the State and Public Justice,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors162.html
 or-ors-163,Oregon Revised Statutes chapter 163,law,ORS chapter 163: Offenses Against Persons,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors163.html
+or-ors-163a,Oregon Revised Statutes chapter 163A,law,ORS chapter 163A: Sex Offender Reporting and Classification,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors163a.html
 or-ors-164,Oregon Revised Statutes chapter 164,law,ORS chapter 164: Offenses Against Property,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors164.html
+or-ors-165,Oregon Revised Statutes chapter 165,law,ORS chapter 165: Offenses Involving Fraud or Deception,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors165.html
+or-ors-166,Oregon Revised Statutes chapter 166,law,ORS chapter 166: Offenses Against Public Order; Firearms and Other Weapons; Racketeering,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors166.html
+or-ors-167,Oregon Revised Statutes chapter 167,law,ORS chapter 167: Offenses Against General Welfare and Animals,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors167.html
+or-ors-169,Oregon Revised Statutes chapter 169,law,ORS chapter 169: Local and Regional Correctional Facilities; Prisoners; Juvenile Facilities,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors169.html
+or-ors-171,Oregon Revised Statutes chapter 171,law,ORS chapter 171,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors171.html
+or-ors-173,Oregon Revised Statutes chapter 173,law,ORS chapter 173: Legislative Service Agencies,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors173.html
+or-ors-174,Oregon Revised Statutes chapter 174,law,ORS chapter 174: Construction of Statutes; General Definitions,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors174.html
+or-ors-176,Oregon Revised Statutes chapter 176,law,ORS chapter 176: Governor,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors176.html
+or-ors-177,Oregon Revised Statutes chapter 177,law,ORS chapter 177: Secretary of State,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors177.html
+or-ors-178,Oregon Revised Statutes chapter 178,law,ORS chapter 178: State Treasurer; Oregon Retirement Savings Plan; Oregon 529 Savings Network,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors178.html
+or-ors-179,Oregon Revised Statutes chapter 179,law,ORS chapter 179: Administration of State Institutions,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors179.html
+or-ors-180,Oregon Revised Statutes chapter 180,law,ORS chapter 180: Attorney General; Department of Justice,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors180.html
+or-ors-181,Oregon Revised Statutes chapter 181,law,ORS chapter 181,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors181.html
+or-ors-181a,Oregon Revised Statutes chapter 181A,law,ORS chapter 181A: State Police; Crime Reporting and Records; Public Safety Standards and Training; Private Security,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors181a.html
+or-ors-182,Oregon Revised Statutes chapter 182,law,ORS chapter 182: State Administrative Agencies,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors182.html
+or-ors-183,Oregon Revised Statutes chapter 183,law,ORS chapter 183: Administrative Procedures Act; Review of Rules; Civil Penalties,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors183.html
+or-ors-184,Oregon Revised Statutes chapter 184,law,ORS chapter 184: Administrative Services and Transportation Departments,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors184.html
+or-ors-185,Oregon Revised Statutes chapter 185,law,ORS chapter 185: State Advocacy Commissions and Offices,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors185.html
+or-ors-186,Oregon Revised Statutes chapter 186,law,ORS chapter 186: State Emblems; State Boundary,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors186.html
+or-ors-187,Oregon Revised Statutes chapter 187,law,ORS chapter 187: Holidays; Standard of Time; Commemorations,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors187.html
+or-ors-188,Oregon Revised Statutes chapter 188,law,ORS chapter 188: Congressional and Legislative Districts; Reapportionment,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors188.html
+or-ors-190,Oregon Revised Statutes chapter 190,law,ORS chapter 190: Cooperation of Governmental Units; State Census; Arbitration,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors190.html
+or-ors-192,Oregon Revised Statutes chapter 192,law,ORS chapter 192: Records; Public Reports and Meetings,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors192.html
+or-ors-193,Oregon Revised Statutes chapter 193,law,ORS chapter 193: Legal Notices,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors193.html
+or-ors-194,Oregon Revised Statutes chapter 194,law,ORS chapter 194: Uniform Law on Notarial Acts; Unsworn Foreign Declarations,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors194.html
+or-ors-195,Oregon Revised Statutes chapter 195,law,ORS chapter 195: Local Government Planning Coordination,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors195.html
+or-ors-196,Oregon Revised Statutes chapter 196,law,ORS chapter 196: State Waters and Ocean Resources; Wetlands; Removal and Fill,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors196.html
+or-ors-197,Oregon Revised Statutes chapter 197,law,ORS chapter 197: Comprehensive Land Use Planning,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors197.html
+or-ors-197a,Oregon Revised Statutes chapter 197A,law,ORS chapter 197A: Land Use Planning: Housing and Urbanization,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors197a.html
+or-ors-198,Oregon Revised Statutes chapter 198,law,ORS chapter 198: Special Districts Generally,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors198.html
+or-ors-199,Oregon Revised Statutes chapter 199,law,ORS chapter 199: Local Government Boundary Commissions; City-County Consolidation,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors199.html
+or-ors-200,Oregon Revised Statutes chapter 200,law,ORS chapter 200: Disadvantaged Business Enterprises; Minority-Owned Businesses; Woman-Owned Businesses; Veteran-Owned Businesses; Emerging Small Businesses,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors200.html
+or-ors-201,Oregon Revised Statutes chapter 201,law,ORS chapter 201,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors201.html
+or-ors-204,Oregon Revised Statutes chapter 204,law,ORS chapter 204: County Officers,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors204.html
+or-ors-205,Oregon Revised Statutes chapter 205,law,ORS chapter 205: County Clerks,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors205.html
+or-ors-206,Oregon Revised Statutes chapter 206,law,ORS chapter 206: Sheriffs,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors206.html
+or-ors-209,Oregon Revised Statutes chapter 209,law,ORS chapter 209: County Surveyors,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors209.html
+or-ors-210,Oregon Revised Statutes chapter 210,law,ORS chapter 210: County Accountants,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors210.html
+or-ors-215,Oregon Revised Statutes chapter 215,law,ORS chapter 215: County Land Use Planning; Resource Lands,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors215.html
+or-ors-221,Oregon Revised Statutes chapter 221,law,ORS chapter 221,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors221.html
+or-ors-222,Oregon Revised Statutes chapter 222,law,ORS chapter 222: City Boundary Changes; Annexations; Consolidations; Withdrawals; Mergers,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors222.html
+or-ors-223,Oregon Revised Statutes chapter 223,law,ORS chapter 223: Local Improvements and Works Generally,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors223.html
+or-ors-224,Oregon Revised Statutes chapter 224,law,ORS chapter 224: City Sewers and Sanitation,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors224.html
+or-ors-225,Oregon Revised Statutes chapter 225,law,ORS chapter 225: Municipal Utilities,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors225.html
+or-ors-227,Oregon Revised Statutes chapter 227,law,ORS chapter 227: City Planning and Zoning,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors227.html
+or-ors-236,Oregon Revised Statutes chapter 236,law,ORS chapter 236,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors236.html
+or-ors-237,Oregon Revised Statutes chapter 237,law,ORS chapter 237,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors237.html
+or-ors-238,Oregon Revised Statutes chapter 238,law,ORS chapter 238: Public Employees Retirement System,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors238.html
+or-ors-238a,Oregon Revised Statutes chapter 238A,law,ORS chapter 238A: Oregon Public Service Retirement Plan,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors238a.html
+or-ors-240,Oregon Revised Statutes chapter 240,law,ORS chapter 240: State Personnel Relations,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors240.html
+or-ors-241,Oregon Revised Statutes chapter 241,law,ORS chapter 241: Civil Service for County Employees,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors241.html
+or-ors-242,Oregon Revised Statutes chapter 242,law,ORS chapter 242: Civil Service for City or School District Employees and Firefighters,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors242.html
+or-ors-243,Oregon Revised Statutes chapter 243,law,ORS chapter 243: Public Employee Rights and Benefits,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors243.html
+or-ors-244,Oregon Revised Statutes chapter 244,law,ORS chapter 244: Government Ethics,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors244.html
+or-ors-246,Oregon Revised Statutes chapter 246,law,ORS chapter 246,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors246.html
+or-ors-247,Oregon Revised Statutes chapter 247,law,ORS chapter 247: Qualification and Registration of Electors,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors247.html
+or-ors-248,Oregon Revised Statutes chapter 248,law,ORS chapter 248: Political Parties; Presidential Electors,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors248.html
+or-ors-249,Oregon Revised Statutes chapter 249,law,ORS chapter 249: CANDIDATES; RECALL,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors249.html
+or-ors-250,Oregon Revised Statutes chapter 250,law,ORS chapter 250: Initiative and Referendum,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors250.html
+or-ors-251,Oregon Revised Statutes chapter 251,law,ORS chapter 251: Voters' Pamphlet,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors251.html
+or-ors-253,Oregon Revised Statutes chapter 253,law,ORS chapter 253: Absent Electors,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors253.html
+or-ors-254,Oregon Revised Statutes chapter 254,law,ORS chapter 254: Conduct of Elections,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors254.html
+or-ors-255,Oregon Revised Statutes chapter 255,law,ORS chapter 255: Special District Elections,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors255.html
+or-ors-258,Oregon Revised Statutes chapter 258,law,ORS chapter 258: Election Contests; Recounts,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors258.html
+or-ors-260,Oregon Revised Statutes chapter 260,law,ORS chapter 260: Campaign Finance Regulation; Election Offenses,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors260.html
+or-ors-261,Oregon Revised Statutes chapter 261,law,ORS chapter 261,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors261.html
+or-ors-264,Oregon Revised Statutes chapter 264,law,ORS chapter 264: Domestic Water Supply Districts,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors264.html
+or-ors-265,Oregon Revised Statutes chapter 265,law,ORS chapter 265: Cemetery Maintenance Districts,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors265.html
+or-ors-267,Oregon Revised Statutes chapter 267,law,ORS chapter 267: Mass Transit Districts; Transportation Districts,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors267.html
+or-ors-268,Oregon Revised Statutes chapter 268,law,ORS chapter 268,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors268.html
+or-ors-270,Oregon Revised Statutes chapter 270,law,ORS chapter 270,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors270.html
+or-ors-271,Oregon Revised Statutes chapter 271,law,ORS chapter 271: USE OF PUBLIC LANDS; EASEMENTS,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors271.html
+or-ors-273,Oregon Revised Statutes chapter 273,law,ORS chapter 273: State Lands Generally,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors273.html
+or-ors-274,Oregon Revised Statutes chapter 274,law,ORS chapter 274: Submersible and Submerged Lands,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors274.html
+or-ors-275,Oregon Revised Statutes chapter 275,law,ORS chapter 275: County Lands,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors275.html
+or-ors-276,Oregon Revised Statutes chapter 276,law,ORS chapter 276,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors276.html
+or-ors-276a,Oregon Revised Statutes chapter 276A,law,ORS chapter 276A: Information Technology,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors276a.html
+or-ors-278,Oregon Revised Statutes chapter 278,law,ORS chapter 278: Insurance for Public Bodies,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors278.html
+or-ors-279,Oregon Revised Statutes chapter 279,law,ORS chapter 279: Public Contracting - Miscellaneous Provisions,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors279.html
+or-ors-279a,Oregon Revised Statutes chapter 279A,law,ORS chapter 279A: Public Contracting - General Provisions,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors279a.html
+or-ors-279b,Oregon Revised Statutes chapter 279B,law,ORS chapter 279B: Public Contracting - Public Procurements,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors279b.html
+or-ors-279c,Oregon Revised Statutes chapter 279C,law,ORS chapter 279C: Public Contracting - Public Improvements and Related Contracts,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors279c.html
+or-ors-282,Oregon Revised Statutes chapter 282,law,ORS chapter 282: Public Printing,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors282.html
+or-ors-283,Oregon Revised Statutes chapter 283,law,ORS chapter 283: Interagency Services,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors283.html
+or-ors-284,Oregon Revised Statutes chapter 284,law,ORS chapter 284,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors284.html
+or-ors-285a,Oregon Revised Statutes chapter 285A,law,ORS chapter 285A: Economic Development I,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors285a.html
+or-ors-285b,Oregon Revised Statutes chapter 285B,law,ORS chapter 285B: Economic Development II,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors285b.html
+or-ors-285c,Oregon Revised Statutes chapter 285C,law,ORS chapter 285C: Economic Development III,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors285c.html
+or-ors-286,Oregon Revised Statutes chapter 286,law,ORS chapter 286,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors286.html
+or-ors-287,Oregon Revised Statutes chapter 287,law,ORS chapter 287,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors287.html
+or-ors-287a,Oregon Revised Statutes chapter 287A,law,ORS chapter 287A: Local Government Borrowing,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors287a.html
+or-ors-289,Oregon Revised Statutes chapter 289,law,ORS chapter 289: Oregon Facilities Financing,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors289.html
+or-ors-291,Oregon Revised Statutes chapter 291,law,ORS chapter 291,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors291.html
+or-ors-292,Oregon Revised Statutes chapter 292,law,ORS chapter 292: Salaries and Expenses of State Officers and Employees,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors292.html
+or-ors-293,Oregon Revised Statutes chapter 293,law,ORS chapter 293: Administration of Public Funds,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors293.html
+or-ors-294,Oregon Revised Statutes chapter 294,law,ORS chapter 294: County and Municipal Financial Administration,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors294.html
+or-ors-295,Oregon Revised Statutes chapter 295,law,ORS chapter 295: Depositories of Public Funds and Securities,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors295.html
+or-ors-297,Oregon Revised Statutes chapter 297,law,ORS chapter 297: Audits of Public Funds and Financial Records,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors297.html
+or-ors-305,Oregon Revised Statutes chapter 305,law,ORS chapter 305,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors305.html
+or-ors-306,Oregon Revised Statutes chapter 306,law,ORS chapter 306: Property Taxation Generally,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors306.html
+or-ors-307,Oregon Revised Statutes chapter 307,law,ORS chapter 307: Property Subject to Taxation; Exemptions,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors307.html
+or-ors-308,Oregon Revised Statutes chapter 308,law,ORS chapter 308: Assessment of Property for Taxation,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors308.html
+or-ors-308a,Oregon Revised Statutes chapter 308A,law,ORS chapter 308A: Land Special Assessments,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors308a.html
+or-ors-310,Oregon Revised Statutes chapter 310,law,ORS chapter 310: Property Tax Rates and Amounts; Tax Limitations; Tax Reduction Programs,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors310.html
+or-ors-311,Oregon Revised Statutes chapter 311,law,ORS chapter 311: Collection of Property Taxes,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors311.html
+or-ors-312,Oregon Revised Statutes chapter 312,law,ORS chapter 312: Foreclosure of Property Tax Liens,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors312.html
+or-ors-314,Oregon Revised Statutes chapter 314,law,ORS chapter 314: Taxes Imposed Upon or Measured by Net Income,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors314.html
+or-ors-315,Oregon Revised Statutes chapter 315,law,ORS chapter 315: Personal and Corporate Income or Excise Tax Credits,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors315.html
+or-ors-316,Oregon Revised Statutes chapter 316,law,ORS chapter 316: Personal Income Tax,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors316.html
+or-ors-317,Oregon Revised Statutes chapter 317,law,ORS chapter 317: Corporation Excise Tax,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors317.html
+or-ors-317a,Oregon Revised Statutes chapter 317A,law,ORS chapter 317A: Corporate Activity Tax,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors317a.html
+or-ors-318,Oregon Revised Statutes chapter 318,law,ORS chapter 318: Corporation Income Tax,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors318.html
+or-ors-319,Oregon Revised Statutes chapter 319,law,ORS chapter 319: Motor Vehicle and Aircraft Fuel Taxes,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors319.html
+or-ors-320,Oregon Revised Statutes chapter 320,law,ORS chapter 320: Miscellaneous Taxes,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors320.html
+or-ors-321,Oregon Revised Statutes chapter 321,law,ORS chapter 321: Timber and Forestland Taxation,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors321.html
+or-ors-323,Oregon Revised Statutes chapter 323,law,ORS chapter 323: Cigarettes and Tobacco Products,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors323.html
+or-ors-324,Oregon Revised Statutes chapter 324,law,ORS chapter 324: Oil and Gas Tax,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors324.html
+or-ors-326,Oregon Revised Statutes chapter 326,law,ORS chapter 326,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors326.html
+or-ors-327,Oregon Revised Statutes chapter 327,law,ORS chapter 327: State Financing of Early Learning and Elementary and Secondary Education,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors327.html
+or-ors-328,Oregon Revised Statutes chapter 328,law,ORS chapter 328: Local Financing of Education,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors328.html
+or-ors-329,Oregon Revised Statutes chapter 329,law,ORS chapter 329: Oregon Educational Act for the 21st Century; Educational Improvement and Reform,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors329.html
+or-ors-329a,Oregon Revised Statutes chapter 329A,law,ORS chapter 329A: Child Care,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors329a.html
+or-ors-332,Oregon Revised Statutes chapter 332,law,ORS chapter 332: Local Administration of Education,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors332.html
+or-ors-334,Oregon Revised Statutes chapter 334,law,ORS chapter 334: Education Service Districts,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors334.html
+or-ors-335,Oregon Revised Statutes chapter 335,law,ORS chapter 335: High Schools,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors335.html
+or-ors-336,Oregon Revised Statutes chapter 336,law,ORS chapter 336: Conduct of Schools Generally,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors336.html
+or-ors-337,Oregon Revised Statutes chapter 337,law,ORS chapter 337: Books and Instructional Materials,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors337.html
+or-ors-338,Oregon Revised Statutes chapter 338,law,ORS chapter 338: PUBLIC CHARTER SCHOOLS,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors338.html
+or-ors-339,Oregon Revised Statutes chapter 339,law,ORS chapter 339: School Attendance; Admission; Discipline; Safety,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors339.html
+or-ors-340,Oregon Revised Statutes chapter 340,law,ORS chapter 340: College Credit Earned in High School,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors340.html
+or-ors-341,Oregon Revised Statutes chapter 341,law,ORS chapter 341: Community Colleges,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors341.html
+or-ors-342,Oregon Revised Statutes chapter 342,law,ORS chapter 342: Teachers and Other School Personnel,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors342.html
+or-ors-343,Oregon Revised Statutes chapter 343,law,ORS chapter 343: Special Education and Other Specialized Education Services,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors343.html
+or-ors-344,Oregon Revised Statutes chapter 344,law,ORS chapter 344: Career and Technical Education; Education Related to Employment,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors344.html
+or-ors-345,Oregon Revised Statutes chapter 345,law,ORS chapter 345: Career Schools,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors345.html
+or-ors-346,Oregon Revised Statutes chapter 346,law,ORS chapter 346: Programs for Persons Who Are Blind or Deaf,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors346.html
+or-ors-348,Oregon Revised Statutes chapter 348,law,ORS chapter 348: Student Aid; Education Stability Fund; Planning,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors348.html
+or-ors-350,Oregon Revised Statutes chapter 350,law,ORS chapter 350: Statewide Coordination of Higher Education,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors350.html
+or-ors-351,Oregon Revised Statutes chapter 351,law,ORS chapter 351,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors351.html
+or-ors-352,Oregon Revised Statutes chapter 352,law,ORS chapter 352: Public Universities,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors352.html
+or-ors-353,Oregon Revised Statutes chapter 353,law,ORS chapter 353: OREGON HEALTH AND SCIENCE UNIVERSITY,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors353.html
+or-ors-357,Oregon Revised Statutes chapter 357,law,ORS chapter 357: Libraries; State Archivist; Poet Laureate,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors357.html
+or-ors-358,Oregon Revised Statutes chapter 358,law,"ORS chapter 358: Oregon Historical and Heritage Agencies, Programs and Tax Provisions; Museums; Local Symphonies and Bands; Archaeological Objects and Sites",,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors358.html
+or-ors-359,Oregon Revised Statutes chapter 359,law,ORS chapter 359: Art and Culture,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors359.html
+or-ors-366,Oregon Revised Statutes chapter 366,law,ORS chapter 366,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors366.html
+or-ors-367,Oregon Revised Statutes chapter 367,law,ORS chapter 367: Transportation Financing; Projects,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors367.html
+or-ors-368,Oregon Revised Statutes chapter 368,law,ORS chapter 368: County Roads,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors368.html
+or-ors-370,Oregon Revised Statutes chapter 370,law,ORS chapter 370: County Road Bonding Act,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors370.html
+or-ors-371,Oregon Revised Statutes chapter 371,law,ORS chapter 371: Road Districts and Road Assessment Plans,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors371.html
+or-ors-373,Oregon Revised Statutes chapter 373,law,ORS chapter 373: Roads and Highways Through Cities,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors373.html
+or-ors-374,Oregon Revised Statutes chapter 374,law,ORS chapter 374: Control of Access to Public Highways,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors374.html
+or-ors-376,Oregon Revised Statutes chapter 376,law,ORS chapter 376: Ways of Necessity; Special Ways; Pedestrian Malls,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors376.html
+or-ors-377,Oregon Revised Statutes chapter 377,law,ORS chapter 377: Highway Beautification; Motorist Information Signs,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors377.html
+or-ors-381,Oregon Revised Statutes chapter 381,law,ORS chapter 381: Interstate Bridges,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors381.html
+or-ors-383,Oregon Revised Statutes chapter 383,law,ORS chapter 383: Tollways,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors383.html
+or-ors-390,Oregon Revised Statutes chapter 390,law,ORS chapter 390: State and Local Parks; Recreation Programs;,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors390.html
+or-ors-398,Oregon Revised Statutes chapter 398,law,ORS chapter 398: Military Justice,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors398.html
+or-ors-399,Oregon Revised Statutes chapter 399,law,ORS chapter 399: ORGANIZED MILITIA,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors399.html
+or-ors-401,Oregon Revised Statutes chapter 401,law,ORS chapter 401: Emergency Management and Services,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors401.html
+or-ors-402,Oregon Revised Statutes chapter 402,law,ORS chapter 402: Emergency Mutual Assistance Agreements,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors402.html
+or-ors-403,Oregon Revised Statutes chapter 403,law,ORS chapter 403: Emergency Communications System; 2-1-1 System; Public Safety Communications Systems,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors403.html
+or-ors-404,Oregon Revised Statutes chapter 404,law,ORS chapter 404: Search and Rescue,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors404.html
+or-ors-406,Oregon Revised Statutes chapter 406,law,ORS chapter 406,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors406.html
+or-ors-408,Oregon Revised Statutes chapter 408,law,ORS chapter 408: Miscellaneous Benefits for Veterans and Service Personnel,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors408.html
+or-ors-409,Oregon Revised Statutes chapter 409,law,ORS chapter 409,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors409.html
+or-ors-410,Oregon Revised Statutes chapter 410,law,ORS chapter 410: Senior and Disability Services,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors410.html
+or-ors-411,Oregon Revised Statutes chapter 411,law,ORS chapter 411: Public Assistance and Medical Assistance,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors411.html
+or-ors-412,Oregon Revised Statutes chapter 412,law,ORS chapter 412: Temporary Assistance for Needy Families,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors412.html
+or-ors-413,Oregon Revised Statutes chapter 413,law,ORS chapter 413: Oregon Health Authority,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors413.html
+or-ors-414,Oregon Revised Statutes chapter 414,law,ORS chapter 414: Medical Assistance,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors414.html
+or-ors-415,Oregon Revised Statutes chapter 415,law,ORS chapter 415: Regulation of Health Care Entities,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors415.html
+or-ors-416,Oregon Revised Statutes chapter 416,law,ORS chapter 416: Recovery and Reimbursement of Aid,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors416.html
+or-ors-417,Oregon Revised Statutes chapter 417,law,ORS chapter 417: Interstate Compacts on Juveniles and Children; Children and Family,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors417.html
+or-ors-418,Oregon Revised Statutes chapter 418,law,ORS chapter 418: Child Welfare Services,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors418.html
+or-ors-419,Oregon Revised Statutes chapter 419,law,ORS chapter 419,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors419.html
+or-ors-419a,Oregon Revised Statutes chapter 419A,law,ORS chapter 419A: Juvenile Code: General Provisions and Definitions,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors419a.html
+or-ors-419b,Oregon Revised Statutes chapter 419B,law,ORS chapter 419B: Juvenile Code: Dependency,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors419b.html
+or-ors-419c,Oregon Revised Statutes chapter 419C,law,ORS chapter 419C: Juvenile Code: Delinquency,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors419c.html
+or-ors-420,Oregon Revised Statutes chapter 420,law,ORS chapter 420: Youth Correction Facilities; Youth Care Centers,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors420.html
+or-ors-420a,Oregon Revised Statutes chapter 420A,law,ORS chapter 420A: Oregon Youth Authority; Youth Correction Facilities,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors420a.html
+or-ors-421,Oregon Revised Statutes chapter 421,law,ORS chapter 421: Department of Corrections Institutions; Compacts,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors421.html
+or-ors-423,Oregon Revised Statutes chapter 423,law,ORS chapter 423: Corrections and Crime Control Administration and Programs,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors423.html
+or-ors-426,Oregon Revised Statutes chapter 426,law,ORS chapter 426,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors426.html
+or-ors-427,Oregon Revised Statutes chapter 427,law,ORS chapter 427: Persons With Intellectual or Developmental Disabilities,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors427.html
+or-ors-428,Oregon Revised Statutes chapter 428,law,ORS chapter 428: Nonresident Persons With Mental Illness or Intellectual Disabilities,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors428.html
+or-ors-430,Oregon Revised Statutes chapter 430,law,ORS chapter 430: Mental and Behavioral Health Treatment; Developmental Disabilities,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors430.html
+or-ors-431,Oregon Revised Statutes chapter 431,law,ORS chapter 431: State and Local Administration and Enforcement of Public Health Laws,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors431.html
+or-ors-431a,Oregon Revised Statutes chapter 431A,law,ORS chapter 431A: Public Health Programs and Activities,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors431a.html
+or-ors-432,Oregon Revised Statutes chapter 432,law,ORS chapter 432: Vital Statistics,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors432.html
+or-ors-433,Oregon Revised Statutes chapter 433,law,ORS chapter 433: Disease and Condition Control; Mass Gatherings; Indoor Air,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors433.html
+or-ors-435,Oregon Revised Statutes chapter 435,law,ORS chapter 435: Reproductive Health Care and Rights,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors435.html
+or-ors-436,Oregon Revised Statutes chapter 436,law,ORS chapter 436: Sterilization,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors436.html
+or-ors-438,Oregon Revised Statutes chapter 438,law,ORS chapter 438: Laboratories; Anatomical Material,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors438.html
+or-ors-440,Oregon Revised Statutes chapter 440,law,ORS chapter 440: Regional Health Entities,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors440.html
+or-ors-441,Oregon Revised Statutes chapter 441,law,ORS chapter 441: Health Care Facilities,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors441.html
+or-ors-442,Oregon Revised Statutes chapter 442,law,ORS chapter 442: Health Planning,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors442.html
+or-ors-443,Oregon Revised Statutes chapter 443,law,ORS chapter 443: Residential Care; Adult Foster Homes; Hospice Programs,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors443.html
+or-ors-444,Oregon Revised Statutes chapter 444,law,ORS chapter 444: Special Medical Services for Children,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors444.html
+or-ors-446,Oregon Revised Statutes chapter 446,law,ORS chapter 446: Manufactured Dwellings and Structures; Parks; Tourist Facilities; Ownership Records; Dealers and Dealerships,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors446.html
+or-ors-447,Oregon Revised Statutes chapter 447,law,ORS chapter 447: Plumbing; Architectural Barriers,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors447.html
+or-ors-448,Oregon Revised Statutes chapter 448,law,ORS chapter 448: Pool Facilities; Water and Sewage Systems,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors448.html
+or-ors-450,Oregon Revised Statutes chapter 450,law,ORS chapter 450: Sanitary Districts and Authorities; Water Authorities,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors450.html
+or-ors-451,Oregon Revised Statutes chapter 451,law,ORS chapter 451: County Service Facilities,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors451.html
+or-ors-452,Oregon Revised Statutes chapter 452,law,ORS chapter 452: Vector Control,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors452.html
+or-ors-453,Oregon Revised Statutes chapter 453,law,ORS chapter 453: Hazardous Substances; Radiation Sources,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors453.html
+or-ors-454,Oregon Revised Statutes chapter 454,law,ORS chapter 454: Sewage Treatment and Disposal Systems,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors454.html
+or-ors-455,Oregon Revised Statutes chapter 455,law,ORS chapter 455,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors455.html
+or-ors-456,Oregon Revised Statutes chapter 456,law,ORS chapter 456: Housing,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors456.html
+or-ors-457,Oregon Revised Statutes chapter 457,law,ORS chapter 457: Urban Renewal,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors457.html
+or-ors-458,Oregon Revised Statutes chapter 458,law,ORS chapter 458: Housing and Community Services Programs; Individual Development Accounts,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors458.html
+or-ors-459,Oregon Revised Statutes chapter 459,law,ORS chapter 459: Solid Waste Management,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors459.html
+or-ors-459a,Oregon Revised Statutes chapter 459A,law,ORS chapter 459A: Reuse and Recycling,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors459a.html
+or-ors-460,Oregon Revised Statutes chapter 460,law,ORS chapter 460: Elevators; Amusement Rides and Devices,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors460.html
+or-ors-461,Oregon Revised Statutes chapter 461,law,ORS chapter 461: Oregon State Lottery,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors461.html
+or-ors-462,Oregon Revised Statutes chapter 462,law,ORS chapter 462: Racing,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors462.html
+or-ors-463,Oregon Revised Statutes chapter 463,law,ORS chapter 463: Unarmed Combat Sports and Entertainment Wrestling,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors463.html
+or-ors-465,Oregon Revised Statutes chapter 465,law,ORS chapter 465: Hazardous Waste and Hazardous Materials I,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors465.html
+or-ors-466,Oregon Revised Statutes chapter 466,law,ORS chapter 466: Hazardous Waste and Hazardous Materials II,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors466.html
+or-ors-467,Oregon Revised Statutes chapter 467,law,ORS chapter 467: Noise Control,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors467.html
+or-ors-468,Oregon Revised Statutes chapter 468,law,ORS chapter 468: Environmental Quality Generally,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors468.html
+or-ors-468a,Oregon Revised Statutes chapter 468A,law,ORS chapter 468A: Air Quality,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors468a.html
+or-ors-468b,Oregon Revised Statutes chapter 468B,law,ORS chapter 468B: Water Quality,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors468b.html
+or-ors-469,Oregon Revised Statutes chapter 469,law,ORS chapter 469: Energy; Conservation Programs; Energy Facilities,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors469.html
+or-ors-469a,Oregon Revised Statutes chapter 469A,law,ORS chapter 469A: Renewable Portfolio Standards; Nonemitting Electricity Targets,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors469a.html
+or-ors-469b,Oregon Revised Statutes chapter 469B,law,ORS chapter 469B: Energy Incentives; Tax Credits; Grants,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors469b.html
+or-ors-470,Oregon Revised Statutes chapter 470,law,ORS chapter 470: Small Scale Local Energy Projects,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors470.html
+or-ors-471,Oregon Revised Statutes chapter 471,law,ORS chapter 471,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors471.html
+or-ors-473,Oregon Revised Statutes chapter 473,law,"ORS chapter 473: Wine, Cider and Malt Beverage Privilege Tax",,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors473.html
+or-ors-474,Oregon Revised Statutes chapter 474,law,ORS chapter 474: Trade Practices Relating to Malt Beverages,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors474.html
+or-ors-475,Oregon Revised Statutes chapter 475,law,ORS chapter 475: Controlled Substances; Illegal Drug Cleanup; Miscellaneous Drugs; Paraphernalia; Precursors,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors475.html
+or-ors-475a,Oregon Revised Statutes chapter 475A,law,ORS chapter 475A: Psilocybin Regulation,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors475a.html
+or-ors-475b,Oregon Revised Statutes chapter 475b,law,ORS chapter 475b,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors475b.html
+or-ors-475c,Oregon Revised Statutes chapter 475C,law,ORS chapter 475C: Cannabis Regulation,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors475c.html
+or-ors-476,Oregon Revised Statutes chapter 476,law,ORS chapter 476: State Fire Marshal; Protection From Fire Generally,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors476.html
+or-ors-477,Oregon Revised Statutes chapter 477,law,ORS chapter 477: Fire Protection of Forests and Vegetation,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors477.html
+or-ors-478,Oregon Revised Statutes chapter 478,law,ORS chapter 478: Rural Fire Protection Districts,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors478.html
+or-ors-479,Oregon Revised Statutes chapter 479,law,ORS chapter 479: Protection of Buildings From Fire; Electrical Safety Law,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors479.html
+or-ors-480,Oregon Revised Statutes chapter 480,law,ORS chapter 480: Explosives; Flammable Materials; Pressure Vessels,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors480.html
+or-ors-481,Oregon Revised Statutes chapter 481,law,ORS chapter 481,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors481.html
+or-ors-483,Oregon Revised Statutes chapter 483,law,ORS chapter 483,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors483.html
+or-ors-496,Oregon Revised Statutes chapter 496,law,"ORS chapter 496: Application, Administration and Enforcement of Wildlife Laws",,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors496.html
+or-ors-497,Oregon Revised Statutes chapter 497,law,"ORS chapter 497: Licenses, Tags and Permits",,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors497.html
+or-ors-498,Oregon Revised Statutes chapter 498,law,"ORS chapter 498: Hunting, Angling and Trapping Regulations; Miscellaneous Wildlife Protective Measures",,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors498.html
+or-ors-506,Oregon Revised Statutes chapter 506,law,ORS chapter 506,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors506.html
+or-ors-507,Oregon Revised Statutes chapter 507,law,ORS chapter 507: Compacts with Other States,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors507.html
+or-ors-509,Oregon Revised Statutes chapter 509,law,ORS chapter 509: General Protective Regulations,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors509.html
+or-ors-513,Oregon Revised Statutes chapter 513,law,ORS chapter 513: Packing Fish and Manufacture of Fish Products,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors513.html
+or-ors-516,Oregon Revised Statutes chapter 516,law,ORS chapter 516,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors516.html
+or-ors-517,Oregon Revised Statutes chapter 517,law,ORS chapter 517: Mining and Mining Claims,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors517.html
+or-ors-520,Oregon Revised Statutes chapter 520,law,ORS chapter 520: Conservation of Gas and Oil,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors520.html
+or-ors-522,Oregon Revised Statutes chapter 522,law,ORS chapter 522: Geothermal Resources,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors522.html
+or-ors-526,Oregon Revised Statutes chapter 526,law,ORS chapter 526,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors526.html
+or-ors-527,Oregon Revised Statutes chapter 527,law,ORS chapter 527: Pest Control; Forest Practices,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors527.html
+or-ors-530,Oregon Revised Statutes chapter 530,law,ORS chapter 530: State Forests; Community Forests,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors530.html
+or-ors-536,Oregon Revised Statutes chapter 536,law,ORS chapter 536,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors536.html
+or-ors-537,Oregon Revised Statutes chapter 537,law,ORS chapter 537: Appropriation of Water Generally,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors537.html
+or-ors-538,Oregon Revised Statutes chapter 538,law,ORS chapter 538: Withdrawal of Certain Waters From Appropriation; Special Municipal and County Water Right,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors538.html
+or-ors-539,Oregon Revised Statutes chapter 539,law,"ORS chapter 539: Before February 24, 1909; Determination of Water Rights of Federally Re",,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors539.html
+or-ors-540,Oregon Revised Statutes chapter 540,law,"ORS chapter 540: Distribution and Storage of Water; Watermasters; Water Right Changes, Transfers an",,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors540.html
+or-ors-541,Oregon Revised Statutes chapter 541,law,ORS chapter 541: Water Distributors; Water Releases; Conservation and Storage;,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors541.html
+or-ors-542,Oregon Revised Statutes chapter 542,law,ORS chapter 542: Water Resource Surveys and Projects; Compacts,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors542.html
+or-ors-543,Oregon Revised Statutes chapter 543,law,ORS chapter 543: Hydroelectric Projects,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors543.html
+or-ors-543a,Oregon Revised Statutes chapter 543A,law,ORS chapter 543A: Reauthorizing and Decommissioning Hydroelectric Project,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors543a.html
+or-ors-545,Oregon Revised Statutes chapter 545,law,ORS chapter 545: Irrigation Districts,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors545.html
+or-ors-547,Oregon Revised Statutes chapter 547,law,ORS chapter 547: Drainage Districts,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors547.html
+or-ors-548,Oregon Revised Statutes chapter 548,law,ORS chapter 548: Provisions Applicable Both to Drainage Districts and to Irrigation,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors548.html
+or-ors-549,Oregon Revised Statutes chapter 549,law,ORS chapter 549: Drainage and Flood Control Generally,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors549.html
+or-ors-550,Oregon Revised Statutes chapter 550,law,ORS chapter 550: Urban Flood Safety and Water Quality District,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors550.html
+or-ors-551,Oregon Revised Statutes chapter 551,law,ORS chapter 551: Diking Districts,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors551.html
+or-ors-552,Oregon Revised Statutes chapter 552,law,ORS chapter 552: Water Improvement Districts,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors552.html
+or-ors-553,Oregon Revised Statutes chapter 553,law,ORS chapter 553: Water Control Districts,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors553.html
+or-ors-554,Oregon Revised Statutes chapter 554,law,"ORS chapter 554: Corporations for Irrigation, Drainage, Water Supply or Flood Control",,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors554.html
+or-ors-555,Oregon Revised Statutes chapter 555,law,ORS chapter 555: Reclamation Projects; Sand Control,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors555.html
+or-ors-561,Oregon Revised Statutes chapter 561,law,ORS chapter 561,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors561.html
+or-ors-564,Oregon Revised Statutes chapter 564,law,ORS chapter 564: Wildflowers; Threatened or Endangered Plants,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors564.html
+or-ors-565,Oregon Revised Statutes chapter 565,law,ORS chapter 565: Fairs and Exhibits,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors565.html
+or-ors-568,Oregon Revised Statutes chapter 568,law,ORS chapter 568: Soil and Water Conservation; Agricultural Water Management,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors568.html
+or-ors-569,Oregon Revised Statutes chapter 569,law,ORS chapter 569: Weed Control,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors569.html
+or-ors-570,Oregon Revised Statutes chapter 570,law,ORS chapter 570: Plant Pest Control; Invasive Species,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors570.html
+or-ors-571,Oregon Revised Statutes chapter 571,law,ORS chapter 571: Nursery Stock; Licensed Agricultural Crops,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors571.html
+or-ors-576,Oregon Revised Statutes chapter 576,law,ORS chapter 576,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors576.html
+or-ors-577,Oregon Revised Statutes chapter 577,law,ORS chapter 577: Oregon Beef Council,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors577.html
+or-ors-578,Oregon Revised Statutes chapter 578,law,ORS chapter 578: Oregon Wheat Commission,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors578.html
+or-ors-586,Oregon Revised Statutes chapter 586,law,ORS chapter 586: Warehouses,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors586.html
+or-ors-587,Oregon Revised Statutes chapter 587,law,ORS chapter 587: Storage of Grain as Basis of Farm Credit,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors587.html
+or-ors-596,Oregon Revised Statutes chapter 596,law,ORS chapter 596,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors596.html
+or-ors-599,Oregon Revised Statutes chapter 599,law,ORS chapter 599: Livestock Auction Markets; Stockyards; Auction Sales,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors599.html
 or-ors-60,Oregon Revised Statutes chapter 60,law,ORS chapter 60: Private Corporations,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors060.html
+or-ors-600,Oregon Revised Statutes chapter 600,law,ORS chapter 600: Swine,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors600.html
+or-ors-601,Oregon Revised Statutes chapter 601,law,ORS chapter 601: Dead Animals,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors601.html
+or-ors-602,Oregon Revised Statutes chapter 602,law,ORS chapter 602: Bees,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors602.html
+or-ors-603,Oregon Revised Statutes chapter 603,law,ORS chapter 603: Meat Sellers and Slaughterers,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors603.html
+or-ors-604,Oregon Revised Statutes chapter 604,law,ORS chapter 604: Brands and Marks; Feedlots,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors604.html
+or-ors-607,Oregon Revised Statutes chapter 607,law,ORS chapter 607: Livestock Districts; Stock Running at Large,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors607.html
+or-ors-608,Oregon Revised Statutes chapter 608,law,ORS chapter 608: Fences to Prevent Damage by or to Animals,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors608.html
+or-ors-609,Oregon Revised Statutes chapter 609,law,ORS chapter 609: Dogs; Exotic Animals; Dealers,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors609.html
+or-ors-610,Oregon Revised Statutes chapter 610,law,ORS chapter 610: Predatory Animals,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors610.html
+or-ors-616,Oregon Revised Statutes chapter 616,law,ORS chapter 616: General and Miscellaneous Provisions,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors616.html
+or-ors-618,Oregon Revised Statutes chapter 618,law,ORS chapter 618: Weights and Measures,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors618.html
+or-ors-619,Oregon Revised Statutes chapter 619,law,ORS chapter 619: Labeling and Inspection of Meat and Meat Food Products,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors619.html
+or-ors-621,Oregon Revised Statutes chapter 621,law,ORS chapter 621: Milk; Dairy Products; Substitutes,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors621.html
+or-ors-622,Oregon Revised Statutes chapter 622,law,ORS chapter 622: Shellfish,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors622.html
+or-ors-624,Oregon Revised Statutes chapter 624,law,ORS chapter 624: Food Service Facilities,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors624.html
+or-ors-625,Oregon Revised Statutes chapter 625,law,ORS chapter 625: Bakeries and Bakery Products,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors625.html
+or-ors-628,Oregon Revised Statutes chapter 628,law,ORS chapter 628: Refrigerated Locker Plants,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors628.html
+or-ors-632,Oregon Revised Statutes chapter 632,law,"ORS chapter 632: Production, Grading and Labeling Standards for Agricultural and Horticultural Products",,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors632.html
+or-ors-633,Oregon Revised Statutes chapter 633,law,"ORS chapter 633: Grades, Standards and Labels for Feeds, Soil Enhancers and Seeds",,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors633.html
+or-ors-634,Oregon Revised Statutes chapter 634,law,ORS chapter 634: Pesticide Control,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors634.html
+or-ors-635,Oregon Revised Statutes chapter 635,law,ORS chapter 635: Nonalcoholic Beverages,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors635.html
+or-ors-645,Oregon Revised Statutes chapter 645,law,ORS chapter 645: Commodity Transactions,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors645.html
+or-ors-646,Oregon Revised Statutes chapter 646,law,ORS chapter 646: Trade Practices and Antitrust Regulation,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors646.html
+or-ors-646a,Oregon Revised Statutes chapter 646A,law,ORS chapter 646A: Trade Regulation,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors646a.html
+or-ors-647,Oregon Revised Statutes chapter 647,law,ORS chapter 647: Trademarks and Service Marks; Music Royalties,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors647.html
+or-ors-648,Oregon Revised Statutes chapter 648,law,ORS chapter 648: Assumed Business Names,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors648.html
+or-ors-650,Oregon Revised Statutes chapter 650,law,ORS chapter 650: Franchise Transactions,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors650.html
+or-ors-651,Oregon Revised Statutes chapter 651,law,ORS chapter 651: Bureau of Labor and Industries,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors651.html
+or-ors-652,Oregon Revised Statutes chapter 652,law,ORS chapter 652: Hours; Wages; Wage Claims; Records,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors652.html
+or-ors-653,Oregon Revised Statutes chapter 653,law,ORS chapter 653: Minimum Wages; Employment Conditions; Minors,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors653.html
+or-ors-654,Oregon Revised Statutes chapter 654,law,ORS chapter 654: Occupational Safety and Health,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors654.html
+or-ors-656,Oregon Revised Statutes chapter 656,law,ORS chapter 656: Workers' Compensation,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors656.html
+or-ors-657,Oregon Revised Statutes chapter 657,law,ORS chapter 657: Unemployment Insurance,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors657.html
+or-ors-657b,Oregon Revised Statutes chapter 657B,law,ORS chapter 657B: Family and Medical Leave Insurance,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors657b.html
+or-ors-658,Oregon Revised Statutes chapter 658,law,ORS chapter 658: Employment Agencies; Farm Labor Contractors and Construction Labor Contractors; Farmworker Camps,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors658.html
+or-ors-659,Oregon Revised Statutes chapter 659,law,ORS chapter 659: Miscellaneous Prohibitions Relating to Employment and Discrimination,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors659.html
+or-ors-659a,Oregon Revised Statutes chapter 659A,law,"ORS chapter 659A: Unlawful Discrimination in Employment, Public Accommodations and Real Property Transactions; Administrative and Civil Enforcement",,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors659a.html
+or-ors-660,Oregon Revised Statutes chapter 660,law,ORS chapter 660: Apprenticeship and Training; Workforce Development; Volunteerism,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors660.html
+or-ors-661,Oregon Revised Statutes chapter 661,law,ORS chapter 661: Organized Labor; Union Labels,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors661.html
+or-ors-662,Oregon Revised Statutes chapter 662,law,ORS chapter 662: Labor Disputes,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors662.html
+or-ors-663,Oregon Revised Statutes chapter 663,law,ORS chapter 663: Labor Relations Generally,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors663.html
+or-ors-670,Oregon Revised Statutes chapter 670,law,ORS chapter 670: Occupations and Professions Generally,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors670.html
+or-ors-671,Oregon Revised Statutes chapter 671,law,ORS chapter 671: Architects; Landscape Professions and Business,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors671.html
+or-ors-672,Oregon Revised Statutes chapter 672,law,ORS chapter 672: Professional Engineers; Land Surveyors; Photogrammetrists; Geologists,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors672.html
+or-ors-673,Oregon Revised Statutes chapter 673,law,ORS chapter 673: Accountants; Other Tax Professionals,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors673.html
+or-ors-674,Oregon Revised Statutes chapter 674,law,ORS chapter 674: Real Estate Appraisers and Appraisal,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors674.html
+or-ors-675,Oregon Revised Statutes chapter 675,law,ORS chapter 675: Psychologists; Occupational Therapists; Certified Sexual Offense Therapists; Regulated Social Workers; Licensed Professional Counselors and Marriage and Family Therapists,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors675.html
+or-ors-676,Oregon Revised Statutes chapter 676,law,ORS chapter 676: Health Professions Generally,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors676.html
+or-ors-677,Oregon Revised Statutes chapter 677,law,"ORS chapter 677: Regulation of Medicine, Podiatry and Acupuncture",,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors677.html
+or-ors-678,Oregon Revised Statutes chapter 678,law,ORS chapter 678: Nurses; Long Term Care Administrators,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors678.html
+or-ors-679,Oregon Revised Statutes chapter 679,law,ORS chapter 679: Dentists,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors679.html
+or-ors-680,Oregon Revised Statutes chapter 680,law,ORS chapter 680: Dental Hygienists; Denturists,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors680.html
+or-ors-681,Oregon Revised Statutes chapter 681,law,"ORS chapter 681: Hearing, Speech, Music Therapy and Art Therapy Professionals",,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors681.html
+or-ors-682,Oregon Revised Statutes chapter 682,law,ORS chapter 682: Ambulance Services; Emergency Medical Services,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors682.html
+or-ors-683,Oregon Revised Statutes chapter 683,law,ORS chapter 683: Optometrists; Opticians,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors683.html
+or-ors-684,Oregon Revised Statutes chapter 684,law,ORS chapter 684: Chiropractors,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors684.html
+or-ors-685,Oregon Revised Statutes chapter 685,law,ORS chapter 685: Naturopathic Physicians,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors685.html
+or-ors-686,Oregon Revised Statutes chapter 686,law,ORS chapter 686: Veterinarians; Veterinary Technicians,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors686.html
+or-ors-687,Oregon Revised Statutes chapter 687,law,ORS chapter 687: Massage Therapists; Direct Entry Midwives,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors687.html
+or-ors-688,Oregon Revised Statutes chapter 688,law,ORS chapter 688: Therapeutic and Technical Services: Physical Therapists; Medical Imaging Practitioners and Limited X-Ray Machine Operators; Hemodialysis Technicians; Athletic Trainers; Respiratory Therapists and Polysomnographic Technologists,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors688.html
+or-ors-689,Oregon Revised Statutes chapter 689,law,ORS chapter 689: Pharmacists; Drug Outlets; Drug Sales,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors689.html
+or-ors-690,Oregon Revised Statutes chapter 690,law,ORS chapter 690: Cosmetic Professionals,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors690.html
+or-ors-691,Oregon Revised Statutes chapter 691,law,ORS chapter 691: Dietitians,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors691.html
+or-ors-692,Oregon Revised Statutes chapter 692,law,ORS chapter 692: Funeral Service Practitioners; Embalmers; Death Care Consultants; Funeral Establishments; Cemetery Operators; Crematory Operators and Alternative,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors692.html
+or-ors-693,Oregon Revised Statutes chapter 693,law,ORS chapter 693: Plumbers,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors693.html
+or-ors-694,Oregon Revised Statutes chapter 694,law,ORS chapter 694: Hearing Aid Specialists,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors694.html
+or-ors-696,Oregon Revised Statutes chapter 696,law,ORS chapter 696: Real Estate and Escrow Activities,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors696.html
+or-ors-697,Oregon Revised Statutes chapter 697,law,ORS chapter 697: Collection Agencies; Check-Cashing Businesses; Debt Management Service Providers,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors697.html
+or-ors-700,Oregon Revised Statutes chapter 700,law,ORS chapter 700: Environmental Health Specialists; Waste Water Specialists,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors700.html
+or-ors-701,Oregon Revised Statutes chapter 701,law,ORS chapter 701: Construction Contractors and Contracts,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors701.html
+or-ors-702,Oregon Revised Statutes chapter 702,law,ORS chapter 702: Student Athletes,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors702.html
+or-ors-703,Oregon Revised Statutes chapter 703,law,ORS chapter 703: Truth Verification and Deception Detection; Investigators,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors703.html
+or-ors-704,Oregon Revised Statutes chapter 704,law,ORS chapter 704: Outfitters and Guides,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors704.html
+or-ors-705,Oregon Revised Statutes chapter 705,law,ORS chapter 705: Department of Consumer and Business Services,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors705.html
+or-ors-706,Oregon Revised Statutes chapter 706,law,ORS chapter 706: Administration and Enforcement of Banking Laws Generally,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors706.html
+or-ors-707,Oregon Revised Statutes chapter 707,law,"ORS chapter 707: Organization to Conduct Banking Business; Stockholders, Directors and Officers",,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors707.html
+or-ors-708a,Oregon Revised Statutes chapter 708A,law,ORS chapter 708A: Regulation of Institutions Generally,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors708a.html
+or-ors-709,Oregon Revised Statutes chapter 709,law,ORS chapter 709: Regulation of Trust Business,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors709.html
+or-ors-711,Oregon Revised Statutes chapter 711,law,ORS chapter 711: Merger; Conversion; Share Exchange; Acquisition; Liquidation; Insolvency,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors711.html
+or-ors-713,Oregon Revised Statutes chapter 713,law,ORS chapter 713: Out-of-State Banks and Extranational Institutions,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors713.html
+or-ors-714,Oregon Revised Statutes chapter 714,law,ORS chapter 714: Branch Banking; Automated Teller Machines,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors714.html
+or-ors-715,Oregon Revised Statutes chapter 715,law,ORS chapter 715: Bank Holding Companies; Financial Holding Companies,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors715.html
+or-ors-716,Oregon Revised Statutes chapter 716,law,ORS chapter 716: Savings Banks,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors716.html
+or-ors-717,Oregon Revised Statutes chapter 717,law,ORS chapter 717: Money Transmission,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors717.html
+or-ors-723,Oregon Revised Statutes chapter 723,law,ORS chapter 723: Credit Unions,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors723.html
+or-ors-725,Oregon Revised Statutes chapter 725,law,ORS chapter 725: Consumer Finance,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors725.html
+or-ors-725a,Oregon Revised Statutes chapter 725A,law,ORS chapter 725A: Short-Term Loans and Student Loan Servicing,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors725a.html
+or-ors-726,Oregon Revised Statutes chapter 726,law,ORS chapter 726: Pawnbrokers,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors726.html
+or-ors-731,Oregon Revised Statutes chapter 731,law,ORS chapter 731: Administration and General Provisions,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors731.html
+or-ors-732,Oregon Revised Statutes chapter 732,law,ORS chapter 732: Organization and Corporate Procedures of Domestic Insurers; Regulation of Insurers Generally,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors732.html
+or-ors-733,Oregon Revised Statutes chapter 733,law,ORS chapter 733: Accounting and Investments,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors733.html
+or-ors-734,Oregon Revised Statutes chapter 734,law,"ORS chapter 734: Rehabilitation, Liquidation and Conservation of Insurers",,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors734.html
+or-ors-735,Oregon Revised Statutes chapter 735,law,ORS chapter 735: Alternative Insurance,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors735.html
+or-ors-737,Oregon Revised Statutes chapter 737,law,ORS chapter 737: Rates and Rating Organizations,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors737.html
+or-ors-741,Oregon Revised Statutes chapter 741,law,ORS chapter 741: Health Insurance Exchange,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors741.html
+or-ors-742,Oregon Revised Statutes chapter 742,law,ORS chapter 742: Insurance Policies Generally; Property and Casualty Policies,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors742.html
+or-ors-743,Oregon Revised Statutes chapter 743,law,ORS chapter 743: Health and Life Insurance and Annuities,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors743.html
+or-ors-743a,Oregon Revised Statutes chapter 743A,law,ORS chapter 743A: Health Insurance: Reimbursement of Claims,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors743a.html
+or-ors-743b,Oregon Revised Statutes chapter 743B,law,ORS chapter 743B: Health Benefit Plans: Individual and Group,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors743b.html
+or-ors-744,Oregon Revised Statutes chapter 744,law,"ORS chapter 744: Insurance Producers; Life Settlement Providers, Brokers and Contracts; Adjusters; Consultants; Third Party Administrators; Reinsurance Intermediaries; Limited Licenses",,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors744.html
+or-ors-746,Oregon Revised Statutes chapter 746,law,ORS chapter 746: Trade Practices,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors746.html
+or-ors-748,Oregon Revised Statutes chapter 748,law,ORS chapter 748: Fraternal Benefit Societies,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors748.html
+or-ors-750,Oregon Revised Statutes chapter 750,law,ORS chapter 750: Health Care Service Contractors; Multiple Employer Welfare Arrangements; Legal Expense Organizations,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors750.html
+or-ors-751,Oregon Revised Statutes chapter 751,law,ORS chapter 751: Universal Health Care System,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors751.html
+or-ors-752,Oregon Revised Statutes chapter 752,law,ORS chapter 752: Professional Liability Funds,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors752.html
+or-ors-756,Oregon Revised Statutes chapter 756,law,ORS chapter 756,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors756.html
+or-ors-757,Oregon Revised Statutes chapter 757,law,ORS chapter 757: Utility Regulation Generally,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors757.html
+or-ors-758,Oregon Revised Statutes chapter 758,law,ORS chapter 758: Utility Rights of Way and Territory Allocation; Cogeneration,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors758.html
+or-ors-759,Oregon Revised Statutes chapter 759,law,ORS chapter 759: Telecommunications Utility Regulation,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors759.html
+or-ors-772,Oregon Revised Statutes chapter 772,law,ORS chapter 772: Rights of Way for Public Uses,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors772.html
+or-ors-774,Oregon Revised Statutes chapter 774,law,ORS chapter 774: Citizens' Utility Board,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors774.html
+or-ors-776,Oregon Revised Statutes chapter 776,law,ORS chapter 776: Maritime Pilots and Pilotage,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors776.html
+or-ors-777,Oregon Revised Statutes chapter 777,law,ORS chapter 777: Ports Generally,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors777.html
+or-ors-778,Oregon Revised Statutes chapter 778,law,ORS chapter 778: Port of Portland,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors778.html
+or-ors-801,Oregon Revised Statutes chapter 801,law,ORS chapter 801,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors801.html
+or-ors-802,Oregon Revised Statutes chapter 802,law,ORS chapter 802: Administrative Provisions,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors802.html
+or-ors-803,Oregon Revised Statutes chapter 803,law,ORS chapter 803: Vehicle Title and Registration,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors803.html
+or-ors-806,Oregon Revised Statutes chapter 806,law,ORS chapter 806: Financial Responsibility Law,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors806.html
+or-ors-807,Oregon Revised Statutes chapter 807,law,ORS chapter 807: Driving Privileges and Identification Cards,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors807.html
+or-ors-809,Oregon Revised Statutes chapter 809,law,"ORS chapter 809: Refusal, Suspension, Cancellation and Revocation of Registration, Title, Driving Privileges and Identification Card; Vehicle Impoundment",,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors809.html
+or-ors-810,Oregon Revised Statutes chapter 810,law,ORS chapter 810: Road Authorities; Courts; Police; Other Enforcement Officials,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors810.html
+or-ors-811,Oregon Revised Statutes chapter 811,law,ORS chapter 811: Rules of the Road for Drivers,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors811.html
+or-ors-813,Oregon Revised Statutes chapter 813,law,ORS chapter 813: Driving Under the Influence of Intoxicants,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors813.html
+or-ors-814,Oregon Revised Statutes chapter 814,law,ORS chapter 814: Pedestrians; Passengers; Livestock; Motorized Wheelchairs; Vehicles With Fewer Than Four Wheels,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors814.html
+or-ors-815,Oregon Revised Statutes chapter 815,law,ORS chapter 815: Vehicle Equipment Generally,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors815.html
+or-ors-816,Oregon Revised Statutes chapter 816,law,ORS chapter 816: Vehicle Equipment: Lights,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors816.html
+or-ors-818,Oregon Revised Statutes chapter 818,law,ORS chapter 818: Vehicle Limits,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors818.html
+or-ors-819,Oregon Revised Statutes chapter 819,law,"ORS chapter 819: Destroyed, Totaled, Abandoned, Low-Value and Stolen Vehicles; Vehicle Identification Numbers; Vehicle Appraisers",,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors819.html
+or-ors-820,Oregon Revised Statutes chapter 820,law,ORS chapter 820: Special Provisions for Certain Vehicles,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors820.html
+or-ors-821,Oregon Revised Statutes chapter 821,law,ORS chapter 821: Off-Road Vehicles; Snowmobiles; All-Terrain Vehicles,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors821.html
+or-ors-822,Oregon Revised Statutes chapter 822,law,ORS chapter 822: Regulation of Vehicle Related Businesses,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors822.html
+or-ors-823,Oregon Revised Statutes chapter 823,law,ORS chapter 823: Carrier Regulation Generally,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors823.html
+or-ors-824,Oregon Revised Statutes chapter 824,law,ORS chapter 824: Railroads,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors824.html
+or-ors-825,Oregon Revised Statutes chapter 825,law,ORS chapter 825: Motor Carriers,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors825.html
+or-ors-826,Oregon Revised Statutes chapter 826,law,ORS chapter 826: Registration of Commercial Vehicles,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors826.html
+or-ors-830,Oregon Revised Statutes chapter 830,law,ORS chapter 830: Small Watercraft,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors830.html
+or-ors-835,Oregon Revised Statutes chapter 835,law,ORS chapter 835: Aviation Administration,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors835.html
+or-ors-836,Oregon Revised Statutes chapter 836,law,ORS chapter 836: Airports and Landing Fields,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors836.html
+or-ors-837,Oregon Revised Statutes chapter 837,law,ORS chapter 837: Aircraft Operation,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors837.html
+or-ors-838,Oregon Revised Statutes chapter 838,law,ORS chapter 838: Airport Districts,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors838.html
 or-ors-93,Oregon Revised Statutes chapter 93,law,ORS chapter 93: Conveyancing and Recording,,,,0,https://www.oregonlegislature.gov/bills_laws/ors/ors093.html
