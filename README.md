@@ -1,5 +1,7 @@
 # United States (Oregon): law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Oregon, United States, which global-law reads at `united-states/oregon/acts/`.
+
 A first build of Oregon law as git: one file per provision, with the text published by the Oregon Legislature (Legislative Counsel) ([oregonlegislature.gov](https://www.oregonlegislature.gov/bills_laws/Pages/ORS.aspx)). It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `united-states/oregon/`. Language: English.
 
 **What is in it now**
