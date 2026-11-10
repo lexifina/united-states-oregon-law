@@ -7420,6 +7420,720 @@
      "sha256": "a1d2a31cc698de0a8680784847a63054b5feca266263bf5b9865c8e0636cb5b7"
     }
    ]
+  },
+  {
+   "slug": "ors-022",
+   "short": "ORS 22",
+   "title": "Oregon Revised Statutes, chapter 22: Bonds and Other Security Deposits",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors022.html",
+   "versions": [
+    {
+     "from": "2019-08-25",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20190825021450id_/https://www.oregonlegislature.gov/bills_laws/ors/ors022.html",
+     "sha256": "cfefcf643bf56edf0579cd6f067e4fa2ab919a8e6db8296682b6d2dfb797e747"
+    }
+   ]
+  },
+  {
+   "slug": "ors-028",
+   "short": "ORS 28",
+   "title": "Oregon Revised Statutes, chapter 28: Declaratory Judgments; Certification of Questions of Law",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors028.html",
+   "versions": [
+    {
+     "from": "2024-08-06",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20240806085319id_/https://www.oregonlegislature.gov/bills_laws/ors/ors028.html",
+     "sha256": "8ab774e6de3cfc9c0eabf6adce54871feebc3347616c980b7fe22a5c82aadc58"
+    }
+   ]
+  },
+  {
+   "slug": "ors-037",
+   "short": "ORS 37",
+   "title": "Oregon Revised Statutes, chapter 37: Receivership",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors037.html",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 41,
+     "source_url": "https://web.archive.org/web/20240527105030id_/https://www.oregonlegislature.gov/bills_laws/ors/ors037.html",
+     "sha256": "2d11f41939eaa242bbc28433886f71aa9f3a5d80f00a0371fce9c7df82d89244"
+    }
+   ]
+  },
+  {
+   "slug": "ors-043",
+   "short": "ORS 43",
+   "title": "Oregon Revised Statutes, chapter 43: Public Writings",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors043.html",
+   "versions": [
+    {
+     "from": "2024-08-06",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20240806073222id_/https://www.oregonlegislature.gov/bills_laws/ors/ors043.html",
+     "sha256": "f741723c8f3ad6ccf99da6b2a1f408dd54049626ce6ebd38f21178295b8d6fbf"
+    }
+   ]
+  },
+  {
+   "slug": "ors-044",
+   "short": "ORS 44",
+   "title": "Oregon Revised Statutes, chapter 44: Witnesses",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors044.html",
+   "versions": [
+    {
+     "from": "2024-04-14",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20240414235321id_/https://www.oregonlegislature.gov/bills_laws/ors/ors044.html",
+     "sha256": "7ab88531af9c0dd70119b465d06c51fa75cda61edf6f4493275179aa9e938370"
+    }
+   ]
+  },
+  {
+   "slug": "ors-052",
+   "short": "ORS 52",
+   "title": "Oregon Revised Statutes, chapter 52: Civil Actions",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors052.html",
+   "versions": [
+    {
+     "from": "2024-08-06",
+     "units": 41,
+     "source_url": "https://web.archive.org/web/20240806072806id_/https://www.oregonlegislature.gov/bills_laws/ors/ors052.html",
+     "sha256": "ac4c7c6c3fb7633a332235ba6d4acdcd638a5947133ddfeccd47f2a2016d948f"
+    }
+   ]
+  },
+  {
+   "slug": "ors-053",
+   "short": "ORS 53",
+   "title": "Oregon Revised Statutes, chapter 53: Appeals in Civil Actions",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors053.html",
+   "versions": [
+    {
+     "from": "2024-09-08",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20240908032946id_/https://www.oregonlegislature.gov/bills_laws/ors/ors053.html",
+     "sha256": "2d93d244e09800865e7344be348cba4c04ba4678c529df66723b1a2d902c81af"
+    }
+   ]
+  },
+  {
+   "slug": "ors-054",
+   "short": "ORS 54",
+   "title": "Oregon Revised Statutes, chapter 54: Juries",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors054.html",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20240523001146id_/https://www.oregonlegislature.gov/bills_laws/ors/ors054.html",
+     "sha256": "5e6c66565c3f6dfa89eec4439e31e1778bc1b003785eeff89787bf00eb6a5b1b"
+    }
+   ]
+  },
+  {
+   "slug": "ors-055",
+   "short": "ORS 55",
+   "title": "Oregon Revised Statutes, chapter 55: Small Claims",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors055.html",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20240913123125id_/https://www.oregonlegislature.gov/bills_laws/ors/ors055.html",
+     "sha256": "6bf9ec006f9cf991e7f9fe8e9795581f95de4685da1bf2cd94b12fce66c8a8ef"
+    }
+   ]
+  },
+  {
+   "slug": "ors-081",
+   "short": "ORS 81",
+   "title": "Oregon Revised Statutes, chapter 81: Tender and Receipts; Choice of Forum in Contracts",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors081.html",
+   "versions": [
+    {
+     "from": "2024-05-22",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20240522234851id_/https://www.oregonlegislature.gov/bills_laws/ors/ors081.html",
+     "sha256": "2fdaa401041736e23f69337cb5029a08c140d497575645f4eb47006e7eef909a"
+    }
+   ]
+  },
+  {
+   "slug": "ors-095",
+   "short": "ORS 95",
+   "title": "Oregon Revised Statutes, chapter 95: Uniform Voidable Transactions Act",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors095.html",
+   "versions": [
+    {
+     "from": "2024-08-11",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20240811020032id_/https://www.oregonlegislature.gov/bills_laws/ors/ors095.html",
+     "sha256": "09c58fa05baa7bb9433ebd55ea206d51201b8e918af173499950a455aefad17c"
+    }
+   ]
+  },
+  {
+   "slug": "ors-099",
+   "short": "ORS 99",
+   "title": "Oregon Revised Statutes, chapter 99: Property Removed by High Water",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors099.html",
+   "versions": [
+    {
+     "from": "2024-08-06",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20240806084602id_/https://www.oregonlegislature.gov/bills_laws/ors/ors099.html",
+     "sha256": "eb3c9dcb712f9ce34bf4ab7b3209e9763c70f77b7c674b2173766e3f6fe13c76"
+    }
+   ]
+  },
+  {
+   "slug": "ors-108",
+   "short": "ORS 108",
+   "title": "Oregon Revised Statutes, chapter 108: Spousal Relationships; Property Rights; Premarital Agreements",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors108.html",
+   "versions": [
+    {
+     "from": "2024-02-26",
+     "units": 30,
+     "source_url": "https://web.archive.org/web/20240226173344id_/https://www.oregonlegislature.gov/bills_laws/ors/ors108.html",
+     "sha256": "0b13cd0f3f5dda8c220ce95818f1d787c36584e4dfdd49b573f10da1c644c6a3"
+    }
+   ]
+  },
+  {
+   "slug": "ors-110",
+   "short": "ORS 110",
+   "title": "Oregon Revised Statutes, chapter 110: Uniform Interstate Family Support Act",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors110.html",
+   "versions": [
+    {
+     "from": "2024-05-25",
+     "units": 78,
+     "source_url": "https://web.archive.org/web/20240525165533id_/https://www.oregonlegislature.gov/bills_laws/ors/ors110.html",
+     "sha256": "f6cb2c01a43712553a82a2485a4c7685ebc9983cb47b3eedc3b95555c3d0c06d"
+    }
+   ]
+  },
+  {
+   "slug": "ors-117",
+   "short": "ORS 117",
+   "title": "Oregon Revised Statutes, chapter 117: Estates of Absentees",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors117.html",
+   "versions": [
+    {
+     "from": "2024-07-12",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20240712011625id_/https://www.oregonlegislature.gov/bills_laws/ors/ors117.html",
+     "sha256": "5f8cd0cfd05b5b649988e640d54094cd112945d4510169fd3a68160d57af3140"
+    }
+   ]
+  },
+  {
+   "slug": "ors-138",
+   "short": "ORS 138",
+   "title": "Oregon Revised Statutes, chapter 138: Appeals; Post-Conviction Relief",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors138.html",
+   "versions": [
+    {
+     "from": "2024-08-11",
+     "units": 70,
+     "source_url": "https://web.archive.org/web/20240811031053id_/https://www.oregonlegislature.gov/bills_laws/ors/ors138.html",
+     "sha256": "1acd386cbc1f4f5247ee2ff0eb7edc623065f599e30df354e8bfe857c3e39230"
+    }
+   ]
+  },
+  {
+   "slug": "ors-156",
+   "short": "ORS 156",
+   "title": "Oregon Revised Statutes, chapter 156: Proceedings and Judgment in Criminal Actions",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors156.html",
+   "versions": [
+    {
+     "from": "2024-08-06",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20240806074518id_/https://www.oregonlegislature.gov/bills_laws/ors/ors156.html",
+     "sha256": "eb6b8b8c54e4e15c01a682a0a7cb69877767cc3010f09daf16b16db57e28d674"
+    }
+   ]
+  },
+  {
+   "slug": "ors-157",
+   "short": "ORS 157",
+   "title": "Oregon Revised Statutes, chapter 157: Appeals in Criminal Actions; Writ of Review",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors157.html",
+   "versions": [
+    {
+     "from": "2024-08-11",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20240811031553id_/https://www.oregonlegislature.gov/bills_laws/ors/ors157.html",
+     "sha256": "89151b4015e317eedfb6b38f86556de0bb3152d39f833851298992266eee5b2d"
+    }
+   ]
+  },
+  {
+   "slug": "ors-172",
+   "short": "ORS 172",
+   "title": "Oregon Revised Statutes, chapter 172: Commission on Uniform Laws; Commission on Indian Services New sections of law were added by legislative action to this ORS chapter or to a series within this ORS chapter by the Legislative Assembly during its 2024 regular session. See sections in the following 2024 Oregon Laws chapters: 2024 Session Laws 0054 New sections of law were enacted by the Legislative Assembly during its 2024 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2024 Oregon Laws chapters: 2024 Session Laws 0054",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors172.html",
+   "versions": [
+    {
+     "from": "2024-08-11",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20240811014812id_/https://www.oregonlegislature.gov/bills_laws/ors/ors172.html",
+     "sha256": "f36ed3cfd9346f4d1650403d4864f152a62fc4123dbd04ba6b7c2b2e54e8f47f"
+    }
+   ]
+  },
+  {
+   "slug": "ors-191",
+   "short": "ORS 191",
+   "title": "Oregon Revised Statutes, chapter 191: United States' Surveys",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors191.html",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260516170814id_/https://www.oregonlegislature.gov/bills_laws/ors/ors191.html",
+     "sha256": "7f8f3f1bb82e5769559fe53b4c0acd2350dbf57ac4d6641b3836eb46b0e0b6a0"
+    }
+   ]
+  },
+  {
+   "slug": "ors-202",
+   "short": "ORS 202",
+   "title": "Oregon Revised Statutes, chapter 202: Establishment of New Counties; Change of Boundaries",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors202.html",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 31,
+     "source_url": "https://web.archive.org/web/20240719221040id_/https://www.oregonlegislature.gov/bills_laws/ors/ors202.html",
+     "sha256": "b2fbcdc722a5255e95cf03dbd20940e953b22b53667435fd36e57ae5787ffd19"
+    }
+   ]
+  },
+  {
+   "slug": "ors-203",
+   "short": "ORS 203",
+   "title": "Oregon Revised Statutes, chapter 203: County Governing Bodies; County Home Rule",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors203.html",
+   "versions": [
+    {
+     "from": "2024-05-22",
+     "units": 32,
+     "source_url": "https://web.archive.org/web/20240522230246id_/https://www.oregonlegislature.gov/bills_laws/ors/ors203.html",
+     "sha256": "84eed3226447bf0bf967072a983973c6c655ab3994e7bc26b62477466934d1c1"
+    }
+   ]
+  },
+  {
+   "slug": "ors-208",
+   "short": "ORS 208",
+   "title": "Oregon Revised Statutes, chapter 208: County Treasurers",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors208.html",
+   "versions": [
+    {
+     "from": "2024-04-15",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20240415070207id_/https://www.oregonlegislature.gov/bills_laws/ors/ors208.html",
+     "sha256": "84b2fac51abcb037ef71338b8839c06f4f91cbfabce58a069c1ebd2b6f043921"
+    }
+   ]
+  },
+  {
+   "slug": "ors-226",
+   "short": "ORS 226",
+   "title": "Oregon Revised Statutes, chapter 226: City Parks, Memorials and Cemeteries",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors226.html",
+   "versions": [
+    {
+     "from": "2024-04-13",
+     "units": 45,
+     "source_url": "https://web.archive.org/web/20240413224323id_/https://www.oregonlegislature.gov/bills_laws/ors/ors226.html",
+     "sha256": "d6414db667caea7083c820ab0f53ffabbe3967f296e7d8063bb4726a2f3fdc44"
+    }
+   ]
+  },
+  {
+   "slug": "ors-262",
+   "short": "ORS 262",
+   "title": "Oregon Revised Statutes, chapter 262: Joint Operating Agencies for Electric Power",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors262.html",
+   "versions": [
+    {
+     "from": "2024-08-06",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20240806074617id_/https://www.oregonlegislature.gov/bills_laws/ors/ors262.html",
+     "sha256": "d499c69b1bbe659794834d1ba4a13038ff0ca5d7a5feaf55b9162968382fa432"
+    }
+   ]
+  },
+  {
+   "slug": "ors-263",
+   "short": "ORS 263",
+   "title": "Oregon Revised Statutes, chapter 263: Convention Facilities",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors263.html",
+   "versions": [
+    {
+     "from": "2024-08-06",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20240806082608id_/https://www.oregonlegislature.gov/bills_laws/ors/ors263.html",
+     "sha256": "4d2e1f8fed81eb63b9c9f280fa4a908ac2ef44fb2cbf1117a440de3fa8211fdc"
+    }
+   ]
+  },
+  {
+   "slug": "ors-266",
+   "short": "ORS 266",
+   "title": "Oregon Revised Statutes, chapter 266: Park and Recreation Districts",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors266.html",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 30,
+     "source_url": "https://web.archive.org/web/20241209063106id_/https://www.oregonlegislature.gov/bills_laws/ors/ors266.html",
+     "sha256": "99bd8fc234c8c198c030a218ddd54a6c96c568090231ddd27567bd2fb7ed16cc"
+    }
+   ]
+  },
+  {
+   "slug": "ors-272",
+   "short": "ORS 272",
+   "title": "Oregon Revised Statutes, chapter 272: Federal Lands",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors272.html",
+   "versions": [
+    {
+     "from": "2024-08-06",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20240806080449id_/https://www.oregonlegislature.gov/bills_laws/ors/ors272.html",
+     "sha256": "f76e51d6ab19308cae4d3507fc89c27c1183bbf9dc787383bb2e35da234d0ad6"
+    }
+   ]
+  },
+  {
+   "slug": "ors-280",
+   "short": "ORS 280",
+   "title": "Oregon Revised Statutes, chapter 280: Financing of Local Public Projects and Improvements; City and County Economic Development",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors280.html",
+   "versions": [
+    {
+     "from": "2024-08-06",
+     "units": 41,
+     "source_url": "https://web.archive.org/web/20240806073540id_/https://www.oregonlegislature.gov/bills_laws/ors/ors280.html",
+     "sha256": "7fb2165a899ee7eed7ea363e577455d27dd0c4804fc6c00410a1e7b165d4ac3b"
+    }
+   ]
+  },
+  {
+   "slug": "ors-286a",
+   "short": "ORS 286A",
+   "title": "Oregon Revised Statutes, chapter 286A: State Borrowing Uncodified sections printed in this chapter were amended or repealed by the Legislative Assembly during its 2024 regular session. See the table of uncodified sections amended or repealed during the 2024 regular session: 2024 A&R Tables New sections of law were enacted by the Legislative Assembly during its 2024 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2024 Oregon Laws chapters: 2024 Session Laws 0104",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors286a.html",
+   "versions": [
+    {
+     "from": "2024-10-09",
+     "units": 96,
+     "source_url": "https://web.archive.org/web/20241009155128id_/https://www.oregonlegislature.gov/bills_laws/ors/ors286a.html",
+     "sha256": "dd1f44c32552493aa6e4cfcac89a7970e274b2768bf3d6b7602e4ea4d88276eb"
+    }
+   ]
+  },
+  {
+   "slug": "ors-309",
+   "short": "ORS 309",
+   "title": "Oregon Revised Statutes, chapter 309: Property Value Appeals Board; Ratio Studies",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors309.html",
+   "versions": [
+    {
+     "from": "2024-08-11",
+     "units": 28,
+     "source_url": "https://web.archive.org/web/20240811024524id_/https://www.oregonlegislature.gov/bills_laws/ors/ors309.html",
+     "sha256": "50e2f46e38fa72c4d684313514475a44e245ae5372bbdbf4dc63bcd32319e2ac"
+    }
+   ]
+  },
+  {
+   "slug": "ors-330",
+   "short": "ORS 330",
+   "title": "Oregon Revised Statutes, chapter 330: Boundary Changes; Mergers",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors330.html",
+   "versions": [
+    {
+     "from": "2022-03-08",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20220308084205id_/https://www.oregonlegislature.gov/bills_laws/ors/ors330.html",
+     "sha256": "04cddd8a10f9e94fc841b8cc44d5502837c2b7e47f411c8c676e31950de2d3a4"
+    }
+   ]
+  },
+  {
+   "slug": "ors-354",
+   "short": "ORS 354",
+   "title": "Oregon Revised Statutes, chapter 354: Educational Television and Radio; Distance Learning; Translator Districts",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors354.html",
+   "versions": [
+    {
+     "from": "2024-09-08",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20240908031112id_/https://www.oregonlegislature.gov/bills_laws/ors/ors354.html",
+     "sha256": "4bbbe8f793b154902b225fc9ef5bec1a7edea2abe9d76c826e192db3400242a7"
+    }
+   ]
+  },
+  {
+   "slug": "ors-369",
+   "short": "ORS 369",
+   "title": "Oregon Revised Statutes, chapter 369: Ways of Public Easement'",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors369.html",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260305135525id_/https://www.oregonlegislature.gov/bills_laws/ors/ors369.html",
+     "sha256": "912f84cd6670ee5c2e9a6cd4f9592ef5ca3c48e7f685c3275b46cd9e0cae1343"
+    }
+   ]
+  },
+  {
+   "slug": "ors-372",
+   "short": "ORS 372",
+   "title": "Oregon Revised Statutes, chapter 372: Highway Lighting Districts",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors372.html",
+   "versions": [
+    {
+     "from": "2024-02-26",
+     "units": 29,
+     "source_url": "https://web.archive.org/web/20240226003054id_/https://www.oregonlegislature.gov/bills_laws/ors/ors372.html",
+     "sha256": "0c21f4072e23f409c915466cad20f3d5be5fe984b5c1bc0adb4e5b01b2e9464a"
+    }
+   ]
+  },
+  {
+   "slug": "ors-382",
+   "short": "ORS 382",
+   "title": "Oregon Revised Statutes, chapter 382: Intrastate Bridges",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors382.html",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 29,
+     "source_url": "https://web.archive.org/web/20220706095528id_/https://www.oregonlegislature.gov/bills_laws/ors/ors382.html",
+     "sha256": "5b66c67339e8512c778b5aebe29af47a264fee564127425dd5ade5c4b889b5d9"
+    }
+   ]
+  },
+  {
+   "slug": "ors-391",
+   "short": "ORS 391",
+   "title": "Oregon Revised Statutes, chapter 391: Mass Transportation",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors391.html",
+   "versions": [
+    {
+     "from": "2024-07-23",
+     "units": 30,
+     "source_url": "https://web.archive.org/web/20240723020126id_/https://www.oregonlegislature.gov/bills_laws/ors/ors391.html",
+     "sha256": "99f8371937c10048537bf4dd94ac771d2e3f6f2b794447d398bf2fcd8c037cfd"
+    }
+   ]
+  },
+  {
+   "slug": "ors-396",
+   "short": "ORS 396",
+   "title": "Oregon Revised Statutes, chapter 396: Militia Generally",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors396.html",
+   "versions": [
+    {
+     "from": "2024-07-21",
+     "units": 54,
+     "source_url": "https://web.archive.org/web/20240721092608id_/https://www.oregonlegislature.gov/bills_laws/ors/ors396.html",
+     "sha256": "32d6b22ba199c835353b78798e592045ebba59d1341c3c264ffe3137006a3a04"
+    }
+   ]
+  },
+  {
+   "slug": "ors-407",
+   "short": "ORS 407",
+   "title": "Oregon Revised Statutes, chapter 407: Veterans Loans",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors407.html",
+   "versions": [
+    {
+     "from": "2024-08-11",
+     "units": 53,
+     "source_url": "https://web.archive.org/web/20240811033020id_/https://www.oregonlegislature.gov/bills_laws/ors/ors407.html",
+     "sha256": "2fdb912db4bbca23de62a29f70ae53913391d6bfee25d14c3a1935aba5581241"
+    }
+   ]
+  },
+  {
+   "slug": "ors-464",
+   "short": "ORS 464",
+   "title": "Oregon Revised Statutes, chapter 464: Games",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors464.html",
+   "versions": [
+    {
+     "from": "2024-10-15",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20241015041911id_/https://www.oregonlegislature.gov/bills_laws/ors/ors464.html",
+     "sha256": "2ef3bce7e2d1de460fa937b50aa43e632621c17d7712b36d71be35c91d7b23f2"
+    }
+   ]
+  },
+  {
+   "slug": "ors-501",
+   "short": "ORS 501",
+   "title": "Oregon Revised Statutes, chapter 501: Refuges and Closures",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors501.html",
+   "versions": [
+    {
+     "from": "2024-09-08",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20240908032212id_/https://www.oregonlegislature.gov/bills_laws/ors/ors501.html",
+     "sha256": "1de5ac99660dc7155ef2d518321e279cc0db7150a43ac94b5a4dcac451b29b4f"
+    }
+   ]
+  },
+  {
+   "slug": "ors-508",
+   "short": "ORS 508",
+   "title": "Oregon Revised Statutes, chapter 508: Licenses and Permits ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2024 regular session. See the table of ORS sections amended or repealed during the 2024 regular session: 2024 A&R Tables New sections of law were enacted by the Legislative Assembly during its 2024 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2024 Oregon Laws chapters: 2024 Session Laws 0048",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors508.html",
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "units": 134,
+     "source_url": "https://web.archive.org/web/20240613010811id_/https://www.oregonlegislature.gov/bills_laws/ors/ors508.html",
+     "sha256": "38790074ce947eb12a595b11f7cfe238d38abd28893f9866ce9c8aab39edc5d5"
+    }
+   ]
+  },
+  {
+   "slug": "ors-523",
+   "short": "ORS 523",
+   "title": "Oregon Revised Statutes, chapter 523: Geothermal Heating Districts",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors523.html",
+   "versions": [
+    {
+     "from": "2024-09-08",
+     "units": 47,
+     "source_url": "https://web.archive.org/web/20240908042414id_/https://www.oregonlegislature.gov/bills_laws/ors/ors523.html",
+     "sha256": "65d96b38b6e41012497ad70d17675ecd963c5719a7be286afa3821c8407f9736"
+    }
+   ]
+  },
+  {
+   "slug": "ors-532",
+   "short": "ORS 532",
+   "title": "Oregon Revised Statutes, chapter 532: Branding of Forest Products and Booming Equipment",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors532.html",
+   "versions": [
+    {
+     "from": "2024-07-23",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20240723032242id_/https://www.oregonlegislature.gov/bills_laws/ors/ors532.html",
+     "sha256": "52e5fc5089158634e7fedf44f9b992840af66fe70c677ededccb1e588d7b4122"
+    }
+   ]
+  },
+  {
+   "slug": "ors-558",
+   "short": "ORS 558",
+   "title": "Oregon Revised Statutes, chapter 558: Weather Modification",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors558.html",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 42,
+     "source_url": "https://web.archive.org/web/20240918172746id_/https://www.oregonlegislature.gov/bills_laws/ors/ors558.html",
+     "sha256": "cb923b31b07488f249ac07ada52d94744453907b2405aa589719e79421d621a2"
+    }
+   ]
+  },
+  {
+   "slug": "ors-567",
+   "short": "ORS 567",
+   "title": "Oregon Revised Statutes, chapter 567: Experiment Stations",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors567.html",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 33,
+     "source_url": "https://web.archive.org/web/20240918165453id_/https://www.oregonlegislature.gov/bills_laws/ors/ors567.html",
+     "sha256": "e190274e5580c5e7f1a0530fc0e7e5ef2765367530f4cc23a1df099e47d636cb"
+    }
+   ]
+  },
+  {
+   "slug": "ors-655",
+   "short": "ORS 655",
+   "title": "Oregon Revised Statutes, chapter 655: Injured Trainees and Adults in Custody",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors655.html",
+   "versions": [
+    {
+     "from": "2024-06-24",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20240624185324id_/https://www.oregonlegislature.gov/bills_laws/ors/ors655.html",
+     "sha256": "4de44117d248dea259408a361dc3c1da5c32f998b50ed4c356d5821bf580e8f5"
+    }
+   ]
+  },
+  {
+   "slug": "ors-698",
+   "short": "ORS 698",
+   "title": "Oregon Revised Statutes, chapter 698: Auctions",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors698.html",
+   "versions": [
+    {
+     "from": "2022-12-04",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20221204073113id_/https://www.oregonlegislature.gov/bills_laws/ors/ors698.html",
+     "sha256": "76abc595395cb112f7136d93283fa1af1ffb17b2e7102d4d99924bd133597b6a"
+    }
+   ]
+  },
+  {
+   "slug": "ors-699",
+   "short": "ORS 699",
+   "title": "Oregon Revised Statutes, chapter 699: Innkeepers and Hotelkeepers",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors699.html",
+   "versions": [
+    {
+     "from": "2024-08-11",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20240811015748id_/https://www.oregonlegislature.gov/bills_laws/ors/ors699.html",
+     "sha256": "16abd4d8f4f00c70fb995dfb585823bb81c261f90f9b40fd9eccb4d034753e6f"
+    }
+   ]
+  },
+  {
+   "slug": "ors-783",
+   "short": "ORS 783",
+   "title": "Oregon Revised Statutes, chapter 783: Liabilities and Offenses Connected With Shipping and Navigation; Shipbreaking; Ballast Water",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors783.html",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 43,
+     "source_url": "https://web.archive.org/web/20240719213351id_/https://www.oregonlegislature.gov/bills_laws/ors/ors783.html",
+     "sha256": "f9f184d7f0ead41d1f0fc167bb616d41ab68c8ac002d57696b46e1b567a50077"
+    }
+   ]
+  },
+  {
+   "slug": "ors-805",
+   "short": "ORS 805",
+   "title": "Oregon Revised Statutes, chapter 805: Special Registration Provisions",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors805.html",
+   "versions": [
+    {
+     "from": "2024-04-21",
+     "units": 61,
+     "source_url": "https://web.archive.org/web/20240421055514id_/https://www.oregonlegislature.gov/bills_laws/ors/ors805.html",
+     "sha256": "c995f6805f344789f6e898f39740dfe0c49b6647e988ee6af42f1e111a6946f8"
+    }
+   ]
   }
  ]
 }

@@ -1,6 +1,6 @@
 # How this repository was made (United States (Oregon))
 
-This file is written by the build on 2026-11-03, the day the source data was retrieved.
+This file is written by the build on 2026-11-10, the day the source data was retrieved.
 
 ## Sources
 
@@ -8,6 +8,7 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | --- | --- | --- | --- |
 | Oregon Legislature, Oregon Revised Statutes and Constitution (Internet Archive captures) | <https://www.oregonlegislature.gov/bills_laws/Pages/ORS.aspx> | 2026-10-30 | Public statute text |
 | Oregon Legislature, Oregon Revised Statutes, every chapter (Internet Archive captures since 2025-01-01) | <https://www.oregonlegislature.gov/bills_laws/Pages/ORS.aspx> | 2026-11-03 | Public statute text |
+| Oregon Legislature, Oregon Revised Statutes, chapters with no capture since 2025 (Internet Archive captures since 2019) | <https://www.oregonlegislature.gov/bills_laws/Pages/ORS.aspx> | 2026-11-10 | Public statute text |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -545,20 +546,71 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ors-836` | Oregon Revised Statutes, chapter 836: Airports and Landing Fields | 1 | 2025-02-02 to 2025-02-02 |
 | `ors-837` | Oregon Revised Statutes, chapter 837: Aircraft Operation | 1 | 2026-10-16 to 2026-10-16 |
 | `ors-838` | Oregon Revised Statutes, chapter 838: Airport Districts | 1 | 2025-04-01 to 2025-04-01 |
+| `ors-022` | Oregon Revised Statutes, chapter 22: Bonds and Other Security Deposits | 1 | 2019-08-25 to 2019-08-25 |
+| `ors-028` | Oregon Revised Statutes, chapter 28: Declaratory Judgments; Certification of Questions of Law | 1 | 2024-08-06 to 2024-08-06 |
+| `ors-037` | Oregon Revised Statutes, chapter 37: Receivership | 1 | 2024-05-27 to 2024-05-27 |
+| `ors-043` | Oregon Revised Statutes, chapter 43: Public Writings | 1 | 2024-08-06 to 2024-08-06 |
+| `ors-044` | Oregon Revised Statutes, chapter 44: Witnesses | 1 | 2024-04-14 to 2024-04-14 |
+| `ors-052` | Oregon Revised Statutes, chapter 52: Civil Actions | 1 | 2024-08-06 to 2024-08-06 |
+| `ors-053` | Oregon Revised Statutes, chapter 53: Appeals in Civil Actions | 1 | 2024-09-08 to 2024-09-08 |
+| `ors-054` | Oregon Revised Statutes, chapter 54: Juries | 1 | 2024-05-23 to 2024-05-23 |
+| `ors-055` | Oregon Revised Statutes, chapter 55: Small Claims | 1 | 2024-09-13 to 2024-09-13 |
+| `ors-081` | Oregon Revised Statutes, chapter 81: Tender and Receipts; Choice of Forum in Contracts | 1 | 2024-05-22 to 2024-05-22 |
+| `ors-095` | Oregon Revised Statutes, chapter 95: Uniform Voidable Transactions Act | 1 | 2024-08-11 to 2024-08-11 |
+| `ors-099` | Oregon Revised Statutes, chapter 99: Property Removed by High Water | 1 | 2024-08-06 to 2024-08-06 |
+| `ors-108` | Oregon Revised Statutes, chapter 108: Spousal Relationships; Property Rights; Premarital Agreements | 1 | 2024-02-26 to 2024-02-26 |
+| `ors-110` | Oregon Revised Statutes, chapter 110: Uniform Interstate Family Support Act | 1 | 2024-05-25 to 2024-05-25 |
+| `ors-117` | Oregon Revised Statutes, chapter 117: Estates of Absentees | 1 | 2024-07-12 to 2024-07-12 |
+| `ors-138` | Oregon Revised Statutes, chapter 138: Appeals; Post-Conviction Relief | 1 | 2024-08-11 to 2024-08-11 |
+| `ors-156` | Oregon Revised Statutes, chapter 156: Proceedings and Judgment in Criminal Actions | 1 | 2024-08-06 to 2024-08-06 |
+| `ors-157` | Oregon Revised Statutes, chapter 157: Appeals in Criminal Actions; Writ of Review | 1 | 2024-08-11 to 2024-08-11 |
+| `ors-172` | Oregon Revised Statutes, chapter 172: Commission on Uniform Laws; Commission on Indian Services New sections of law were added by legislative action to this ORS chapter or to a series within this ORS chapter by the Legislative Assembly during its 2024 regular session. See sections in the following 2024 Oregon Laws chapters: 2024 Session Laws 0054 New sections of law were enacted by the Legislative Assembly during its 2024 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2024 Oregon Laws chapters: 2024 Session Laws 0054 | 1 | 2024-08-11 to 2024-08-11 |
+| `ors-191` | Oregon Revised Statutes, chapter 191: United States' Surveys | 1 | 2026-05-16 to 2026-05-16 |
+| `ors-202` | Oregon Revised Statutes, chapter 202: Establishment of New Counties; Change of Boundaries | 1 | 2024-07-19 to 2024-07-19 |
+| `ors-203` | Oregon Revised Statutes, chapter 203: County Governing Bodies; County Home Rule | 1 | 2024-05-22 to 2024-05-22 |
+| `ors-208` | Oregon Revised Statutes, chapter 208: County Treasurers | 1 | 2024-04-15 to 2024-04-15 |
+| `ors-226` | Oregon Revised Statutes, chapter 226: City Parks, Memorials and Cemeteries | 1 | 2024-04-13 to 2024-04-13 |
+| `ors-262` | Oregon Revised Statutes, chapter 262: Joint Operating Agencies for Electric Power | 1 | 2024-08-06 to 2024-08-06 |
+| `ors-263` | Oregon Revised Statutes, chapter 263: Convention Facilities | 1 | 2024-08-06 to 2024-08-06 |
+| `ors-266` | Oregon Revised Statutes, chapter 266: Park and Recreation Districts | 1 | 2024-12-09 to 2024-12-09 |
+| `ors-272` | Oregon Revised Statutes, chapter 272: Federal Lands | 1 | 2024-08-06 to 2024-08-06 |
+| `ors-280` | Oregon Revised Statutes, chapter 280: Financing of Local Public Projects and Improvements; City and County Economic Development | 1 | 2024-08-06 to 2024-08-06 |
+| `ors-286a` | Oregon Revised Statutes, chapter 286A: State Borrowing Uncodified sections printed in this chapter were amended or repealed by the Legislative Assembly during its 2024 regular session. See the table of uncodified sections amended or repealed during the 2024 regular session: 2024 A&R Tables New sections of law were enacted by the Legislative Assembly during its 2024 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2024 Oregon Laws chapters: 2024 Session Laws 0104 | 1 | 2024-10-09 to 2024-10-09 |
+| `ors-309` | Oregon Revised Statutes, chapter 309: Property Value Appeals Board; Ratio Studies | 1 | 2024-08-11 to 2024-08-11 |
+| `ors-330` | Oregon Revised Statutes, chapter 330: Boundary Changes; Mergers | 1 | 2022-03-08 to 2022-03-08 |
+| `ors-354` | Oregon Revised Statutes, chapter 354: Educational Television and Radio; Distance Learning; Translator Districts | 1 | 2024-09-08 to 2024-09-08 |
+| `ors-369` | Oregon Revised Statutes, chapter 369: Ways of Public Easement' | 1 | 2026-03-05 to 2026-03-05 |
+| `ors-372` | Oregon Revised Statutes, chapter 372: Highway Lighting Districts | 1 | 2024-02-26 to 2024-02-26 |
+| `ors-382` | Oregon Revised Statutes, chapter 382: Intrastate Bridges | 1 | 2022-07-06 to 2022-07-06 |
+| `ors-391` | Oregon Revised Statutes, chapter 391: Mass Transportation | 1 | 2024-07-23 to 2024-07-23 |
+| `ors-396` | Oregon Revised Statutes, chapter 396: Militia Generally | 1 | 2024-07-21 to 2024-07-21 |
+| `ors-407` | Oregon Revised Statutes, chapter 407: Veterans Loans | 1 | 2024-08-11 to 2024-08-11 |
+| `ors-464` | Oregon Revised Statutes, chapter 464: Games | 1 | 2024-10-15 to 2024-10-15 |
+| `ors-501` | Oregon Revised Statutes, chapter 501: Refuges and Closures | 1 | 2024-09-08 to 2024-09-08 |
+| `ors-508` | Oregon Revised Statutes, chapter 508: Licenses and Permits ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2024 regular session. See the table of ORS sections amended or repealed during the 2024 regular session: 2024 A&R Tables New sections of law were enacted by the Legislative Assembly during its 2024 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2024 Oregon Laws chapters: 2024 Session Laws 0048 | 1 | 2024-06-13 to 2024-06-13 |
+| `ors-523` | Oregon Revised Statutes, chapter 523: Geothermal Heating Districts | 1 | 2024-09-08 to 2024-09-08 |
+| `ors-532` | Oregon Revised Statutes, chapter 532: Branding of Forest Products and Booming Equipment | 1 | 2024-07-23 to 2024-07-23 |
+| `ors-558` | Oregon Revised Statutes, chapter 558: Weather Modification | 1 | 2024-09-18 to 2024-09-18 |
+| `ors-567` | Oregon Revised Statutes, chapter 567: Experiment Stations | 1 | 2024-09-18 to 2024-09-18 |
+| `ors-655` | Oregon Revised Statutes, chapter 655: Injured Trainees and Adults in Custody | 1 | 2024-06-24 to 2024-06-24 |
+| `ors-698` | Oregon Revised Statutes, chapter 698: Auctions | 1 | 2022-12-04 to 2022-12-04 |
+| `ors-699` | Oregon Revised Statutes, chapter 699: Innkeepers and Hotelkeepers | 1 | 2024-08-11 to 2024-08-11 |
+| `ors-783` | Oregon Revised Statutes, chapter 783: Liabilities and Offenses Connected With Shipping and Navigation; Shipbreaking; Ballast Water | 1 | 2024-07-19 to 2024-07-19 |
+| `ors-805` | Oregon Revised Statutes, chapter 805: Special Registration Provisions | 1 | 2024-04-21 to 2024-04-21 |
 
-The build made 530 commits:
+The build made 581 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 530 | first version of an act |
+| 581 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 530 laws in the record.
-- 530 tags.
+- 581 laws in the record.
+- 581 tags.
 
 ## Dates
 
@@ -570,8 +622,8 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `e704f2dde084ef96b58cba3571f12aa8d2635cd1577adeaa86296d0153988a77` (66006170 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
+- Corpus: sha256 `8edcf4960baa8a4ba4dbcbdd8543ed210fae3cd510a7fefc73a8492df511c14c` (67827179 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
@@ -587,6 +639,7 @@ No second build of this corpus has been compared yet.
 - Each text has one version, "oldest version available", dated from the capture day and credited to the publisher.
 - Bracketed history notes at the end of each section, tables of contents and Constitution article indexes are not kept.
 - Wave 3 (2026-11-03): each other chapter is one act in the oldest version available, read from the newest capture of its page since 2025-01-01 and dated from that capture day, the day the text was retrieved, credited to the publisher. The pages give no in-force day for the edition, so no amended section is dated from its original enactment. Chapters with no capture since 2025, or no section text, are not included.
+- Fill (2026-11-10): ORS chapters with no capture since 2025 are added from their newest capture since 2019, dated from that capture day and labelled with the edition the page states (mostly the 2023 edition); a later amendment is not reflected. Chapters whose page is "(Former Provisions)" (repealed or renumbered) are left out.
 
 ## What AI did and did not do
 
